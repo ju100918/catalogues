@@ -1,0 +1,11 @@
+[
+{"produit":"Filet d'agneau Migros, les 100 g","categorie_pyramide":"5. Viande, poisson, œufs, tofu et alternatives","provenance":"Nouvelle-Zélande/Australie","labels":[],"type_offre":"20% de réduction","prix_initial":3.95,"prix_final":3.15},
+{"produit":"Entrecôtes de bœuf Black Angus Migros, 2 pièces, les 100 g","categorie_pyramide":"5. Viande, poisson, œufs, tofu et alternatives","provenance":"Uruguay","labels":[],"type_offre":"21% de réduction","prix_initial":5.00,"prix_final":3.95},
+{"produit":"Steaks de porc bûcheron marinés IP-SUISSE, les 100 g","categorie_pyramide":"5. Viande, poisson, œufs, tofu et alternatives","provenance":null,"labels":["IP-Suisse"],"type_offre":"23% de réduction","prix_initial":1.95,"prix_final":1.50},
+{"produit":"Rumpsteak de bœuf «De la région.», les 100 g","categorie_pyramide":"5. Viande, poisson, œufs, tofu et alternatives","provenance":null,"labels":["De la région."],"type_offre":"20% de réduction","prix_initial":8.30,"prix_final":6.60},
+{"produit":"Poulet entier Optigal, IP-SUISSE, nature ou épicé (p. ex. nature, le kg)","categorie_pyramide":"5. Viande, poisson, œufs, tofu et alternatives","provenance":null,"labels":["IP-Suisse"],"type_offre":"30% de réduction","prix_initial":11.50,"prix_final":7.95},
+{"produit":"Ailes de poulet Optigal, nature ou épicées, le kg","categorie_pyramide":"5. Viande, poisson, œufs, tofu et alternatives","provenance":"Suisse","labels":[],"type_offre":"30% de réduction","prix_initial":12.00,"prix_final":8.40},
+{"produit":"Fricassées de porc IP-SUISSE, les 100 g","categorie_pyramide":"5. Viande, poisson, œufs, tofu et alternatives","provenance":null,"labels":["IP-Suisse"],"type_offre":"20% de réduction","prix_initial":1.70,"prix_final":1.35},
+{"produit":"Saucisse à rôtir de porc «De la région.», les 100 g","categorie_pyramide":"5. Viande, poisson, œufs, tofu et alternatives","provenance":null,"labels":["De la région."],"type_offre":"21% de réduction","prix_initial":2.60,"prix_final":2.05},
+{"produit":"Poulet Crispy Don Pollo, surgelé, 1,4 kg","categorie_pyramide":"5. Viande, poisson, œufs, tofu et alternatives","provenance":null,"labels":[],"type_offre":"40% de réduction","prix_initial":19.40,"prix_final":11.60}
+]
