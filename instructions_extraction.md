@@ -30,12 +30,12 @@ Pour chaque produit ALIMENTAIRE, extrais les champs suivants :
      1.3 Jus de fruits 100% fruits
      1.4 Autres (ex. café en poudre, café instantané, capsules de café, thé)
      2.1 Fruits
-     2.2 Légumes (y compris tomates en conserve, garnitures de légumes)
+     2.2 Légumes (y compris tomates en conserve et sauces 100% tomate)
      3.1 Pains
      3.2 Riz
      3.3 Pâtes (nature)
      3.4 Pommes de terre
-     3.5 Autres (ex. pâtes farcies, plats tout prêts à base de céréales)
+     3.5 Autres (ex. pâtes farcies)
      (ATTENTION : les légumineuses ne vont PAS en catégorie 3, voir 5.5)
      4.1 Fromage
      4.2 Yogourts aromatisés, séré aromatisé
@@ -52,14 +52,15 @@ Pour chaque produit ALIMENTAIRE, extrais les champs suivants :
      6.2 Huile (y compris huile d'olive)
      6.3 Crème
      6.4 Noix et graines (uniquement si non salées)
-     6.5 Autres (ex. lait de coco, margarine, mayonnaise, sauce à salade)
+     6.5 Autres (ex. lait de coco, margarine, mayonnaise)
      7.1 Sucreries (y compris müesli, birchermüesli et granola)
      7.2 Snacks salés (y compris olives en sachet ou en conserve, houmous,
-         snacks feuilletés)
+         garnitures pour bruschetta, snacks feuilletés)
      7.3 Boissons sucrées (y compris boissons sucrées sans alcool,
          boissons protéinées et boissons lactées avec sucres ajoutés)
      7.4 Boissons alcoolisées
-     7.5 Autres (ex. pizzas, sauces et condiments comme l'arôme Maggi)
+     7.5 Autres (ex. plats préparés, pizzas, sauces à salade, sauces pour
+         pâtes qui ne sont pas 100% tomate, condiments comme l'arôme Maggi)
      8.1 Produits pour bébé (ex. bouillies pour bébé, desserts pour bébé,
          lait en poudre pour bébé)
   NE DÉTERMINE PAS de catégorie principale séparément : elle sera
