@@ -1,0 +1,120 @@
+[
+ {
+  "produit": "Filet d'agneau Migros, les 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Nouvelle-Zélande/Australie",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 3.95,
+  "prix_final": 3.15
+ },
+ {
+  "produit": "Entrecôtes de bœuf Black Angus Migros, 2 pièces, les 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Uruguay",
+  "labels": [],
+  "type_offre": [
+   "21%"
+  ],
+  "prix_initial": 5.0,
+  "prix_final": 3.95
+ },
+ {
+  "produit": "Steaks de porc bûcheron marinés IP-SUISSE, les 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "IP-Suisse"
+  ],
+  "type_offre": [
+   "23%"
+  ],
+  "prix_initial": 1.95,
+  "prix_final": 1.5
+ },
+ {
+  "produit": "Rumpsteak de bœuf «De la région.», les 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "De la région."
+  ],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 8.3,
+  "prix_final": 6.6
+ },
+ {
+  "produit": "Poulet entier Optigal, IP-SUISSE, nature ou épicé (p. ex. nature, le kg)",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "IP-Suisse"
+  ],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 11.5,
+  "prix_final": 7.95
+ },
+ {
+  "produit": "Ailes de poulet Optigal, nature ou épicées, le kg",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 12.0,
+  "prix_final": 8.4
+ },
+ {
+  "produit": "Fricassées de porc IP-SUISSE, les 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "IP-Suisse"
+  ],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 1.7,
+  "prix_final": 1.35
+ },
+ {
+  "produit": "Saucisse à rôtir de porc «De la région.», les 100 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "De la région."
+  ],
+  "type_offre": [
+   "21%"
+  ],
+  "prix_initial": 2.6,
+  "prix_final": 2.05
+ },
+ {
+  "produit": "Poulet Crispy Don Pollo, surgelé, 1,4 kg",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "40%"
+  ],
+  "prix_initial": 19.4,
+  "prix_final": 11.6
+ }
+]

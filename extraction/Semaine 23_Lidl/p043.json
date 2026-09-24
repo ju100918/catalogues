@@ -1,0 +1,102 @@
+[
+ {
+  "produit": "Evian Eau minérale plate, 6 x 1,5 l",
+  "souscategorie_pyramide": "1.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-50% en pack de 6"
+  ],
+  "prix_initial": 6.59,
+  "prix_final": 3.29
+ },
+ {
+  "produit": "Côtes du Rhône AOP 2021, 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": "France – Rhône",
+  "labels": [
+   "AOP"
+  ],
+  "type_offre": [
+   "-24%"
+  ],
+  "prix_initial": 3.29,
+  "prix_final": 2.49
+ },
+ {
+  "produit": "Duc de Coeur En-cas au maïs jambon-fromage, 75 g",
+  "souscategorie_pyramide": "7.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 0.99,
+  "prix_final": null
+ },
+ {
+  "produit": "Duc de Coeur Biscuits au beurre fourrés, diverses sortes, 100 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 1.99,
+  "prix_final": null
+ },
+ {
+  "produit": "Duc de Coeur Pâte à tartiner sucrée, diverses sortes, 200 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 1.99,
+  "prix_final": null
+ },
+ {
+  "produit": "Duc de Coeur Spécialités de dessert, profiteroles ou crème caramel, 450 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 3.79,
+  "prix_final": null
+ },
+ {
+  "produit": "Duc de Coeur Crème brûlée, 2 x 100 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 2.49,
+  "prix_final": null
+ },
+ {
+  "produit": "Duc de Coeur Macarons glacés, surgelés, 6 x 20 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Rainforest Alliance"
+  ],
+  "type_offre": [],
+  "prix_initial": 4.99,
+  "prix_final": null
+ },
+ {
+  "produit": "Bordeaux Supérieur Barrique AOP 2021, 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": "France – Bordeaux",
+  "labels": [
+   "AOP"
+  ],
+  "type_offre": [],
+  "prix_initial": 4.99,
+  "prix_final": null
+ }
+]

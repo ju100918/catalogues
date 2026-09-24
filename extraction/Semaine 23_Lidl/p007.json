@@ -1,0 +1,28 @@
+[
+ {
+  "produit": "Fraises, 500 g",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Qualité Suisse"
+  ],
+  "type_offre": [
+   "-33%"
+  ],
+  "prix_initial": 5.99,
+  "prix_final": 3.99
+ },
+ {
+  "produit": "Pastèque, le kg",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Espagne, Italie",
+  "labels": [],
+  "type_offre": [
+   "-33%"
+  ],
+  "prix_initial": 1.79,
+  "prix_final": 1.19
+ }
+]

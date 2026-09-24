@@ -1,0 +1,52 @@
+[
+ {
+  "produit": "Tout l'assortiment Pancho Villa (p. ex. tortillas Flour big, 6 pièces, 350 g)",
+  "souscategorie_pyramide": "3.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 3 articles",
+   "25%"
+  ],
+  "prix_initial": 5.45,
+  "prix_final": 4.09
+ },
+ {
+  "produit": "Avocats Migros Bio, la pièce",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Pérou",
+  "labels": [
+   "Migros Bio"
+  ],
+  "type_offre": [
+   "à partir de 2 articles",
+   "23%"
+  ],
+  "prix_initial": 1.95,
+  "prix_final": 1.5
+ },
+ {
+  "produit": "Escalopes de poulet pané Migros, les 100 g",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": "Brésil",
+  "labels": [],
+  "type_offre": [
+   "27%"
+  ],
+  "prix_initial": 2.15,
+  "prix_final": 1.55
+ },
+ {
+  "produit": "BrokenTaco Diablo Crema, Sweet Taco Topping ou Green Sriracha, 200 g",
+  "souscategorie_pyramide": "7.6",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 3.4,
+  "prix_final": null
+ }
+]

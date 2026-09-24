@@ -1,0 +1,56 @@
+[
+ {
+  "produit": "Nescafé Dolce Gusto Capsules de café, diverses sortes, 30 pièces",
+  "souscategorie_pyramide": "1.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-33%"
+  ],
+  "prix_initial": 11.89,
+  "prix_final": 7.95
+ },
+ {
+  "produit": "Maggi Arôme liquide, 250 g",
+  "souscategorie_pyramide": "7.6",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-20%"
+  ],
+  "prix_initial": 2.89,
+  "prix_final": 2.29
+ },
+ {
+  "produit": "Thomy Mayonnaise / Thomynaise light, 2 x 265 g / 2 x 280 g",
+  "souscategorie_pyramide": "6.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 4.69,
+  "prix_final": null
+ },
+ {
+  "produit": "Thomy Sauce à salades, diverses sortes, 2 x 700 ml",
+  "souscategorie_pyramide": "7.6",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 5.99,
+  "prix_final": null
+ },
+ {
+  "produit": "Nestlé Yogolino, biscuit ou vanille, 4 x 100 g",
+  "souscategorie_pyramide": "8.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 3.15,
+  "prix_final": null
+ }
+]

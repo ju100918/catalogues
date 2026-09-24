@@ -1,0 +1,68 @@
+[
+ {
+  "produit": "Mont-sur-Rolle La Côte AOC, 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": "Suisse – Vaud",
+  "labels": [
+   "AOC"
+  ],
+  "type_offre": [
+   "-20%",
+   "Avec Lidl Plus"
+  ],
+  "prix_initial": 6.79,
+  "prix_final": 5.39
+ },
+ {
+  "produit": "Cœurs de laitues pommées suisses, 2 pièces",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Suisse Garantie"
+  ],
+  "type_offre": [
+   "-28%"
+  ],
+  "prix_initial": 3.49,
+  "prix_final": 2.49
+ },
+ {
+  "produit": "Dulano Selection Bâtonnets de salami, classiques ou piquants, 100 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-21%"
+  ],
+  "prix_initial": 3.79,
+  "prix_final": 2.99
+ },
+ {
+  "produit": "Freeway Mate, diverses sortes, 33 cl",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-20%",
+   "Avec Lidl Plus -30% (0.69)"
+  ],
+  "prix_initial": 0.99,
+  "prix_final": 0.79
+ },
+ {
+  "produit": "Sprite, pack de 24, 24 x 33 cl",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Action"
+  ],
+  "prix_initial": null,
+  "prix_final": 12.95
+ }
+]

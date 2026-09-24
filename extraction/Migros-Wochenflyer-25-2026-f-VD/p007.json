@@ -1,0 +1,108 @@
+[
+ {
+  "produit": "Le Gruyère surchoix AOP, env. 280 g, les 100 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "AOP"
+  ],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 2.25,
+  "prix_final": 1.8
+ },
+ {
+  "produit": "Grana Padano Da Emilio (p. ex. râpé, 120 g)",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "15%"
+  ],
+  "prix_initial": 2.95,
+  "prix_final": 2.51
+ },
+ {
+  "produit": "Tête de Moine en rosettes AOP, 2 x 120 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "AOP"
+  ],
+  "type_offre": [
+   "lot de 2",
+   "20%"
+  ],
+  "prix_initial": 9.2,
+  "prix_final": 7.35
+ },
+ {
+  "produit": "Fromage à griller Happily Baer, Fromella Provençale ou Tomme Original (p. ex. Fromella, 2 x 220 g)",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "V-Label végétarien"
+  ],
+  "type_offre": [
+   "lot de 2",
+   "20%"
+  ],
+  "prix_initial": 13.7,
+  "prix_final": 10.95
+ },
+ {
+  "produit": "Fromage doux à la crème Emmi Luzerner, env. 280 g, les 100 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 2.8,
+  "prix_final": 2.2
+ },
+ {
+  "produit": "Emmental doux, env. 250 g, les 100 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "22%"
+  ],
+  "prix_initial": 1.55,
+  "prix_final": 1.2
+ },
+ {
+  "produit": "Le Chèvre Sanglé «De la région.», 180 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "De la région."
+  ],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 7.8,
+  "prix_final": 6.2
+ },
+ {
+  "produit": "Raclette en tranches pour burger Emmi, 150 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 3.95,
+  "prix_final": 3.15
+ }
+]

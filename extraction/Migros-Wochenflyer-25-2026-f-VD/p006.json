@@ -1,0 +1,72 @@
+[
+ {
+  "produit": "Saumon sauvage sockeye Migros, MSC, 280 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": "sauvage",
+  "provenance": "Pacifique Nord-Est (zone de pêche)",
+  "labels": [
+   "MSC"
+  ],
+  "type_offre": [
+   "21%"
+  ],
+  "prix_initial": 12.6,
+  "prix_final": 9.95
+ },
+ {
+  "produit": "Crevettes blanchies et décortiquées M-Classic, ASC, 450 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": "élevage",
+  "provenance": "Équateur",
+  "labels": [
+   "ASC"
+  ],
+  "type_offre": [
+   "23%"
+  ],
+  "prix_initial": 13.05,
+  "prix_final": 9.95
+ },
+ {
+  "produit": "Poissons frais en barquette de cuisson Migros (p. ex. filet de saumon ASC, 400 g)",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": "élevage",
+  "provenance": "Norvège",
+  "labels": [
+   "ASC"
+  ],
+  "type_offre": [
+   "23%"
+  ],
+  "prix_initial": 12.95,
+  "prix_final": 9.95
+ },
+ {
+  "produit": "Dorade royale Migros Bio, les 100 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": "élevage",
+  "provenance": "Croatie",
+  "labels": [
+   "Migros Bio"
+  ],
+  "type_offre": [
+   "21%"
+  ],
+  "prix_initial": 3.3,
+  "prix_final": 2.6
+ },
+ {
+  "produit": "Filets de saumon sans peau M-Classic, ASC, 380 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": "élevage",
+  "provenance": "Norvège",
+  "labels": [
+   "ASC"
+  ],
+  "type_offre": [
+   "26%"
+  ],
+  "prix_initial": 16.9,
+  "prix_final": 12.5
+ }
+]

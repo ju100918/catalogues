@@ -1,0 +1,27 @@
+[
+ {
+  "produit": "Chef Select Bowl de salade, diverses sortes, 300 g",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-25%"
+  ],
+  "prix_initial": 4.95,
+  "prix_final": 3.69
+ },
+ {
+  "produit": "Abricots, le kg",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Espagne, Italie",
+  "labels": [],
+  "type_offre": [
+   "-31%",
+   "Avec Lidl Plus -34% (3.79)"
+  ],
+  "prix_initial": 5.79,
+  "prix_final": 3.99
+ }
+]

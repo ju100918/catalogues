@@ -1,0 +1,140 @@
+[
+ {
+  "produit": "Tous les cafés La Semeuse (p. ex. mocca surfin, moulu)",
+  "souscategorie_pyramide": "1.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2 articles",
+   "20%"
+  ],
+  "prix_initial": 13.95,
+  "prix_final": 11.16
+ },
+ {
+  "produit": "Lait de coco Thai Kitchen, classique ou bio (p. ex. classique, 2 x 500 ml)",
+  "souscategorie_pyramide": "6.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "lot de 2",
+   "20%"
+  ],
+  "prix_initial": 9.0,
+  "prix_final": 7.2
+ },
+ {
+  "produit": "Sucre fin cristallisé Cristal M-Classic, IP-SUISSE, 4 x 1 kg",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "IP-Suisse"
+  ],
+  "type_offre": [
+   "lot de 4",
+   "25%"
+  ],
+  "prix_initial": 7.2,
+  "prix_final": 5.4
+ },
+ {
+  "produit": "Cafés instantanés Cafino (excepté bio), Classic et Voncoré (p. ex. Classic, 550 g)",
+  "souscategorie_pyramide": "1.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Rainforest Alliance"
+  ],
+  "type_offre": [
+   "à partir de 2 articles",
+   "30%"
+  ],
+  "prix_initial": 11.8,
+  "prix_final": 8.26
+ },
+ {
+  "produit": "Branches Frey, Milk ou Dark, 50 x 27 g (p. ex. Milk)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Rainforest Alliance"
+  ],
+  "type_offre": [
+   "50%"
+  ],
+  "prix_initial": 25.5,
+  "prix_final": 12.75
+ },
+ {
+  "produit": "Plaques de chocolat Frey assorties, 20 x 100 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Rainforest Alliance"
+  ],
+  "type_offre": [
+   "lot de 20",
+   "40%"
+  ],
+  "prix_initial": 48.4,
+  "prix_final": 28.95
+ },
+ {
+  "produit": "Chocolat Ovomaltine, diverses variétés (p. ex. Ovo rocks, 2 x 120 g)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "lot de 2",
+   "20%"
+  ],
+  "prix_initial": 9.4,
+  "prix_final": 7.5
+ },
+ {
+  "produit": "Boules de chocolat au lait Lindor Lindt, 3 x 200 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "lot de 3",
+   "33%"
+  ],
+  "prix_initial": 38.85,
+  "prix_final": 25.95
+ },
+ {
+  "produit": "Kägi Fret en sachet, Classic, noisette ou orange, 250 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Hit"
+  ],
+  "prix_initial": null,
+  "prix_final": 5.75
+ },
+ {
+  "produit": "Bâtonnets de glace Choquello Praliné, Exotic Mini ou Exotic, surgelés (p. ex. Choquello Praliné, 8 x 82 ml)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Rainforest Alliance"
+  ],
+  "type_offre": [
+   "à partir de 2 articles",
+   "25%"
+  ],
+  "prix_initial": 7.5,
+  "prix_final": 5.63
+ }
+]

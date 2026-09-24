@@ -1,0 +1,82 @@
+[
+ {
+  "produit": "Fraises, 500 g",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Qualité Suisse"
+  ],
+  "type_offre": [
+   "-33%"
+  ],
+  "prix_initial": 5.99,
+  "prix_final": 3.99
+ },
+ {
+  "produit": "Fisher's Choice Filets de saumon bio",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Bio"
+  ],
+  "type_offre": [
+   "-41%"
+  ],
+  "prix_initial": 16.99,
+  "prix_final": 9.99
+ },
+ {
+  "produit": "Malvoisie AOC",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "AOC"
+  ],
+  "type_offre": [
+   "-33%",
+   "Avec Lidl Plus"
+  ],
+  "prix_initial": 11.95,
+  "prix_final": 7.95
+ },
+ {
+  "produit": "Qualité Suisse Viande hachée mélangée allégée",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Qualité Suisse",
+   "Suisse Garantie"
+  ],
+  "type_offre": [
+   "Action"
+  ],
+  "prix_initial": null,
+  "prix_final": 12.99
+ },
+ {
+  "produit": "Allini Secco",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-25%"
+  ],
+  "prix_initial": 1.59,
+  "prix_final": 1.19
+ },
+ {
+  "produit": "Duc de Coeur Filet de poitrine de canard de Barbarie, surgelé",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 8.99,
+  "prix_final": null
+ }
+]

@@ -1,0 +1,36 @@
+[
+ {
+  "produit": "Gamellón Crianza, 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": "Espagne – Murcia",
+  "labels": [],
+  "type_offre": [
+   "-20%"
+  ],
+  "prix_initial": 9.99,
+  "prix_final": 7.99
+ },
+ {
+  "produit": "Monte Plogar Cariñena Gran Reserva DO, 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": "Espagne – Aragon",
+  "labels": [
+   "DO"
+  ],
+  "type_offre": [],
+  "prix_initial": 3.99,
+  "prix_final": null
+ },
+ {
+  "produit": "Corte alle Mura Chianti Riserva, 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": "Italie – Toscane",
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 7.99,
+  "prix_final": null
+ }
+]

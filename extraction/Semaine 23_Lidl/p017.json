@@ -1,0 +1,138 @@
+[
+ {
+  "produit": "Solevita Boissons Funny Fruit, Cola Lemon ou Tropical, 14 x 20 cl",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Action"
+  ],
+  "prix_initial": null,
+  "prix_final": 3.49
+ },
+ {
+  "produit": "Cave Aliança Casal Mendes Rosé, 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": "Portugal",
+  "labels": [],
+  "type_offre": [
+   "-38%"
+  ],
+  "prix_initial": 5.95,
+  "prix_final": 3.65
+ },
+ {
+  "produit": "Torre de Ferro Dão Reserva DOC, 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": "Portugal – Dão",
+  "labels": [
+   "DOC"
+  ],
+  "type_offre": [
+   "-15%"
+  ],
+  "prix_initial": 3.59,
+  "prix_final": 3.05
+ },
+ {
+  "produit": "Somersby Apple Original, 4,5% vol., 4 x 50 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-25%"
+  ],
+  "prix_initial": 11.49,
+  "prix_final": 8.59
+ },
+ {
+  "produit": "Gamellón Crianza, 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": "Espagne – Murcia",
+  "labels": [],
+  "type_offre": [
+   "-20%"
+  ],
+  "prix_initial": 9.99,
+  "prix_final": 7.99
+ },
+ {
+  "produit": "Malvoisie AOC, 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": "Suisse – Valais",
+  "labels": [
+   "AOC"
+  ],
+  "type_offre": [
+   "-33%",
+   "Avec Lidl Plus"
+  ],
+  "prix_initial": 11.95,
+  "prix_final": 7.95
+ },
+ {
+  "produit": "Deluxe Pralinés façon Dubaï, 120 g (article non disponible)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-20%",
+   "Avec Lidl Plus",
+   "Rabais d'introduction"
+  ],
+  "prix_initial": 4.99,
+  "prix_final": 3.99
+ },
+ {
+  "produit": "Qualité Suisse Séré maigre sans lactose, 250 g",
+  "souscategorie_pyramide": "4.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Qualité Suisse",
+   "Suisse Garantie"
+  ],
+  "type_offre": [
+   "-20%",
+   "Avec Lidl Plus",
+   "Rabais d'introduction"
+  ],
+  "prix_initial": 1.19,
+  "prix_final": 0.95
+ },
+ {
+  "produit": "Cheetos XL fromage et paprika, 130 g (retard dans la livraison)",
+  "souscategorie_pyramide": "7.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-20%",
+   "Avec Lidl Plus",
+   "Rabais d'introduction"
+  ],
+  "prix_initial": 3.89,
+  "prix_final": 3.11
+ },
+ {
+  "produit": "Crownfield Granola Honey, au miel, 500 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-20%",
+   "Avec Lidl Plus",
+   "Rabais d'introduction"
+  ],
+  "prix_initial": 3.29,
+  "prix_final": 2.63
+ }
+]

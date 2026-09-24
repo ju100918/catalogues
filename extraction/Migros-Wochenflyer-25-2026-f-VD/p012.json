@@ -1,0 +1,101 @@
+[
+ {
+  "produit": "Haribo Pixels acidulés, 1,2 kg",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Hit"
+  ],
+  "prix_initial": null,
+  "prix_final": 9.5
+ },
+ {
+  "produit": "Olives en sachet Migros (excepté Demeter et Alnatura) (p. ex. olives espagnoles Hojiblanca dénoyautées, 150 g)",
+  "souscategorie_pyramide": "7.2",
+  "type_poisson": null,
+  "provenance": "Espagne",
+  "labels": [],
+  "type_offre": [
+   "à partir de 2 articles",
+   "20%"
+  ],
+  "prix_initial": 2.7,
+  "prix_final": 2.16
+ },
+ {
+  "produit": "Croissants au jambon Happy Hour, M-Classic, surgelé, 24 pièces, 1008 g",
+  "souscategorie_pyramide": "7.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 12.6,
+  "prix_final": 8.8
+ },
+ {
+  "produit": "Pepsi, Regular, Zero, Cherry Zero et sans caféine (p. ex. Regular, 6 x 1,5 litre)",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "pack de 6",
+   "40%"
+  ],
+  "prix_initial": 12.5,
+  "prix_final": 7.5
+ },
+ {
+  "produit": "Biscuits pour l'apéritif Party, Pizza Crackers, Crackers ou Sticks (p. ex. pizza crackers, 450 g)",
+  "souscategorie_pyramide": "7.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 9.3,
+  "prix_final": 7.4
+ },
+ {
+  "produit": "Salsiccia Ticinese Rapelli, 480 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 9.95,
+  "prix_final": 7.95
+ },
+ {
+  "produit": "Chips Zweifel, paprika ou nature, 2 x 175 g",
+  "souscategorie_pyramide": "7.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "lot de 2",
+   "23%"
+  ],
+  "prix_initial": 8.4,
+  "prix_final": 6.45
+ },
+ {
+  "produit": "Snacketti Zweifel, Paprika Shells, Dancer Cream ou Bacon Strips Flavour, XXL Big Pack, 225 g",
+  "souscategorie_pyramide": "7.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 5.85,
+  "prix_final": 4.65
+ }
+]

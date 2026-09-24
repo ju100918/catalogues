@@ -1,0 +1,93 @@
+[
+ {
+  "produit": "Toutes les salades et pâtes à tartiner, Neni (excepté Daily by Neni) (p. ex. houmous pois chiches et huile d'olive, végane, 200 g)",
+  "souscategorie_pyramide": "7.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 3.95,
+  "prix_final": 3.16
+ },
+ {
+  "produit": "Toutes les tourtes non réfrigérées (p. ex. tourte de Linz Petit Bonheur, 400 g)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 3.95,
+  "prix_final": 3.16
+ },
+ {
+  "produit": "Tous les plats tout prêts Anna's Best (p. ex. riz casimir avec poulet et fruits, 400 g)",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2 articles",
+   "20%"
+  ],
+  "prix_initial": 6.95,
+  "prix_final": 5.56
+ },
+ {
+  "produit": "Tous les buns pour hamburger Migros (p. ex. Burger Buns, précoupés, 6 pièces, 300 g)",
+  "souscategorie_pyramide": "3.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 1.6,
+  "prix_final": 1.28
+ },
+ {
+  "produit": "Escalopes aux légumes et pommes de terre ou Crispy Tofu, Migros Bio (p. ex. escalopes, 2 x 180 g)",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Bio",
+   "V-Label végétarien"
+  ],
+  "type_offre": [
+   "lot de 2",
+   "20%"
+  ],
+  "prix_initial": 7.9,
+  "prix_final": 6.3
+ },
+ {
+  "produit": "Gazpacho Alvalle, 1 litre ou 500 ml (p. ex. 1 litre)",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2 articles",
+   "40%"
+  ],
+  "prix_initial": 6.95,
+  "prix_final": 4.17
+ },
+ {
+  "produit": "Tous les petits pains rustiques, pointus et Vital en vrac (p. ex. petit pain rustique, 85 g)",
+  "souscategorie_pyramide": "3.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2 articles",
+   "20%"
+  ],
+  "prix_initial": 1.45,
+  "prix_final": 1.16
+ }
+]

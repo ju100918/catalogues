@@ -1,0 +1,105 @@
+[
+ {
+  "produit": "Eau minérale Aproz, diverses variétés (p. ex. gazéifiée, 6 x 1,5 litre)",
+  "souscategorie_pyramide": "1.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "pack de 6",
+   "50%"
+  ],
+  "prix_initial": 6.4,
+  "prix_final": 3.2
+ },
+ {
+  "produit": "Schweppes, diverses variétés (p. ex. Bitter Lemon, 6 x 500 ml)",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "pack de 6",
+   "40%"
+  ],
+  "prix_initial": 11.9,
+  "prix_final": 7.14
+ },
+ {
+  "produit": "Red Bull Sugarfree ou Zero, 6 x 250 ml",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "pack de 6",
+   "32%"
+  ],
+  "prix_initial": 8.9,
+  "prix_final": 6.05
+ },
+ {
+  "produit": "Capri-Sun Multivitamin, Multivitamin Zero, Monster ou Mystic Dragon, 10 x 200 ml",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "pack de 10",
+   "33%"
+  ],
+  "prix_initial": 4.95,
+  "prix_final": 3.3
+ },
+ {
+  "produit": "Tous les sirops en bouteilles PET (p. ex. framboise, 750 ml)",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 2.95,
+  "prix_final": 2.36
+ },
+ {
+  "produit": "Red Bull Summer Edition Sugarfree Sudachi-Lime, 250 ml",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Nouveau",
+   "20x Cumulus"
+  ],
+  "prix_initial": null,
+  "prix_final": 1.7
+ },
+ {
+  "produit": "Volvic Essence agrumes-romarin (p. ex. 6 x 750 ml)",
+  "souscategorie_pyramide": "1.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Nouveau",
+   "20x Cumulus"
+  ],
+  "prix_initial": null,
+  "prix_final": 11.7
+ },
+ {
+  "produit": "Eau minérale Evian Sparkling, 500 ml",
+  "souscategorie_pyramide": "1.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Nouveau",
+   "20x Cumulus"
+  ],
+  "prix_initial": null,
+  "prix_final": 1.1
+ }
+]

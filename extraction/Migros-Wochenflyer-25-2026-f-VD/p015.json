@@ -1,0 +1,134 @@
+[
+ {
+  "produit": "Lillet Blanc, sans alcool, 750 ml",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Nouveau",
+   "20x Cumulus"
+  ],
+  "prix_initial": null,
+  "prix_final": 19.95
+ },
+ {
+  "produit": "Monster Bad Apple Energy et Juice, 500 ml",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Nouveau",
+   "20x Cumulus"
+  ],
+  "prix_initial": null,
+  "prix_final": 1.7
+ },
+ {
+  "produit": "Lamate Mango Migros, 330 ml",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Nouveau",
+   "20x Cumulus"
+  ],
+  "prix_initial": null,
+  "prix_final": 1.0
+ },
+ {
+  "produit": "Fanta Orange (p. ex. 6 x 330 ml)",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Nouveau",
+   "20x Cumulus"
+  ],
+  "prix_initial": null,
+  "prix_final": 6.2
+ },
+ {
+  "produit": "Spezi Paulaner, 330 ml",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Nouveau",
+   "20x Cumulus"
+  ],
+  "prix_initial": null,
+  "prix_final": 1.5
+ },
+ {
+  "produit": "Freixenet Solare, 750 ml",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Nouveau",
+   "20x Cumulus"
+  ],
+  "prix_initial": null,
+  "prix_final": 15.9
+ },
+ {
+  "produit": "Bilz Chill & Relax, sans alcool, White Peach & Jasmine, 6 x 330 ml",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Nouveau",
+   "20x Cumulus"
+  ],
+  "prix_initial": null,
+  "prix_final": 9.95
+ },
+ {
+  "produit": "Biotta Well Fibres bio, 500 ml",
+  "souscategorie_pyramide": "1.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Bio"
+  ],
+  "type_offre": [
+   "Nouveau",
+   "20x Cumulus"
+  ],
+  "prix_initial": null,
+  "prix_final": 4.95
+ },
+ {
+  "produit": "Coca-Cola zéro caféine et zéro sucre (p. ex. 1,5 litre)",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Nouveau",
+   "20x Cumulus"
+  ],
+  "prix_initial": null,
+  "prix_final": 14.35
+ },
+ {
+  "produit": "Matcha Carpe Diem, 500 ml",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Nouveau",
+   "20x Cumulus"
+  ],
+  "prix_initial": null,
+  "prix_final": 1.9
+ }
+]

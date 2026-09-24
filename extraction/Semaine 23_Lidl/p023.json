@@ -1,0 +1,38 @@
+[
+ {
+  "produit": "Bon Gelati Mini Mix amandes, chocolat au lait ou chocolat blanc, surgelés, 12 x 50 ml",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Rainforest Alliance"
+  ],
+  "type_offre": [],
+  "prix_initial": 3.46,
+  "prix_final": null
+ },
+ {
+  "produit": "Bon Gelati Bâtonnets glacés fraise croustillante, surgelés, 6 x 100 ml",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Rainforest Alliance"
+  ],
+  "type_offre": [],
+  "prix_initial": 3.69,
+  "prix_final": null
+ },
+ {
+  "produit": "Gelatelli Mini glace au café, surgelés, 8 x 38 ml",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Fairtrade Max Havelaar"
+  ],
+  "type_offre": [],
+  "prix_initial": 4.29,
+  "prix_final": null
+ }
+]

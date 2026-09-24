@@ -1,0 +1,70 @@
+[
+ {
+  "produit": "Qualité Suisse Viande hachée mélangée allégée, pack de 2, 2 x 370 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Suisse Garantie",
+   "Qualité Suisse"
+  ],
+  "type_offre": [
+   "Action"
+  ],
+  "prix_initial": null,
+  "prix_final": 12.99
+ },
+ {
+  "produit": "Deluxe Filet d'agneau mariné, 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Irlande",
+  "labels": [],
+  "type_offre": [
+   "Action"
+  ],
+  "prix_initial": null,
+  "prix_final": 3.29
+ },
+ {
+  "produit": "Qualité Suisse Steak de cou de porc, assaisonné, 800 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Suisse Garantie",
+   "Qualité Suisse"
+  ],
+  "type_offre": [
+   "Action"
+  ],
+  "prix_initial": null,
+  "prix_final": 9.99
+ },
+ {
+  "produit": "Qualité Suisse Brochettes flambeau farcies, 400 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Suisse Garantie",
+   "Qualité Suisse"
+  ],
+  "type_offre": [
+   "-22%",
+   "Avec Lidl Plus"
+  ],
+  "prix_initial": 8.99,
+  "prix_final": 6.99
+ },
+ {
+  "produit": "Deluxe Steak de bœuf Striploin Irish Angus, 250 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Irlande",
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 14.99,
+  "prix_final": null
+ }
+]

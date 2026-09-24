@@ -1,0 +1,26 @@
+[
+ {
+  "produit": "Fanta, pack de 24, Orange ou Exotic, 24 x 33 cl",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Action"
+  ],
+  "prix_initial": null,
+  "prix_final": 12.95
+ },
+ {
+  "produit": "Coca-Cola, pack de 24, classique ou zéro, 24 x 33 cl",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Action"
+  ],
+  "prix_initial": null,
+  "prix_final": 13.19
+ }
+]
