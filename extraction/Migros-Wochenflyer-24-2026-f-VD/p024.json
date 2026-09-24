@@ -1,0 +1,44 @@
+[
+ {
+  "produit": "Tomates en grappes, le kg",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "30%",
+   "Offre de fin de semaine (11.6–14.6.2026)"
+  ],
+  "prix_initial": 3.9,
+  "prix_final": 2.7
+ },
+ {
+  "produit": "Steaks de cou de porc marinés IP-SUISSE, 4 pièces, les 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "IP-Suisse"
+  ],
+  "type_offre": [
+   "31%",
+   "Offre de fin de semaine (11.6–14.6.2026)"
+  ],
+  "prix_initial": 2.25,
+  "prix_final": 1.55
+ },
+ {
+  "produit": "Pâtes alimentaires Migros 500 g et 750 g (excepté Tradition), diverses variétés",
+  "souscategorie_pyramide": "3.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 3 articles",
+   "50%",
+   "Offre de fin de semaine (11.6–14.6.2026)"
+  ],
+  "prix_initial": null,
+  "prix_final": null
+ }
+]

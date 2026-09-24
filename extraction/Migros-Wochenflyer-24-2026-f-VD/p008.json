@@ -1,0 +1,38 @@
+[
+ {
+  "produit": "Brochettes kebab poulet Migros, les 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 2.95,
+  "prix_final": 2.35
+ },
+ {
+  "produit": "Huiles d'olive Don Pablo, 1 litre et 500 ml (p. ex. 1 litre)",
+  "souscategorie_pyramide": "6.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 9.95,
+  "prix_final": 7.96
+ },
+ {
+  "produit": "Mini-laitues romaines, la barquette de 3",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "25%"
+  ],
+  "prix_initial": 3.95,
+  "prix_final": 2.95
+ }
+]

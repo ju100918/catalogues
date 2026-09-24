@@ -1,0 +1,91 @@
+[
+ {
+  "produit": "Pâte à tartiner Argeta, poulet, piquant ou thon, MSC, 4 x 95 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "MSC"
+  ],
+  "type_offre": [
+   "lot de 4",
+   "30%"
+  ],
+  "prix_initial": 7.8,
+  "prix_final": 5.45
+ },
+ {
+  "produit": "Flips Stark Smoki, 250 g",
+  "souscategorie_pyramide": "7.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "V-Label vegan"
+  ],
+  "type_offre": [
+   "Hit"
+  ],
+  "prix_initial": null,
+  "prix_final": 2.0
+ },
+ {
+  "produit": "Cevapcici de bœuf Migros, 7 pièces, 245 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 6.95,
+  "prix_final": null
+ },
+ {
+  "produit": "Simit en vente en vrac, 115 g",
+  "souscategorie_pyramide": "3.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 1.2,
+  "prix_final": null
+ },
+ {
+  "produit": "Biscuits Lane Bambi, 300 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 3.2,
+  "prix_final": null
+ },
+ {
+  "produit": "Ajvar doux Podravka, 690 g",
+  "souscategorie_pyramide": "7.6",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 3.3,
+  "prix_final": null
+ },
+ {
+  "produit": "Energy Drink Golden Eagle, 250 ml",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 0.95,
+  "prix_final": null
+ },
+ {
+  "produit": "Soupe de poulet Podravka, 4 x 62 g",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 3.8,
+  "prix_final": null
+ }
+]

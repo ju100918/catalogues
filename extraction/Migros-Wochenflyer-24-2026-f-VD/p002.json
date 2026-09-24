@@ -1,0 +1,57 @@
+[
+ {
+  "produit": "Courgettes Migros Bio, «De la région.», 500 g",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Migros Bio",
+   "De la région."
+  ],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 4.5,
+  "prix_final": 3.6
+ },
+ {
+  "produit": "Mini bananes Fairtrade, l'emballage de 300 g",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Équateur",
+  "labels": [
+   "Fairtrade Max Havelaar"
+  ],
+  "type_offre": [
+   "31%"
+  ],
+  "prix_initial": 3.2,
+  "prix_final": 2.2
+ },
+ {
+  "produit": "Herbes aromatiques Migros Bio, diverses variétés, Ø 18 cm, le pot",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Migros Bio"
+  ],
+  "type_offre": [
+   "25%"
+  ],
+  "prix_initial": 12.95,
+  "prix_final": 9.7
+ },
+ {
+  "produit": "Laitue pommée avec cœurs Migros, lavée, 200 g",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 2.0,
+  "prix_final": 1.6
+ }
+]

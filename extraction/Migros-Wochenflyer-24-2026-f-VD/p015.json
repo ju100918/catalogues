@@ -1,0 +1,45 @@
+[
+ {
+  "produit": "Tous les cornets de glace Fun, surgelés (p. ex. fraise, 8 x 145 ml)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Rainforest Alliance"
+  ],
+  "type_offre": [
+   "à partir de 2 articles",
+   "30%"
+  ],
+  "prix_initial": 10.95,
+  "prix_final": 7.67
+ },
+ {
+  "produit": "Tous les mochis glacés Little Moons, surgelés, 6 x 32 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2 articles",
+   "20%"
+  ],
+  "prix_initial": 5.95,
+  "prix_final": 4.76
+ },
+ {
+  "produit": "Bâtonnets glacés MegaStar, surgelés (p. ex. Almond, 6 x 120 ml)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Rainforest Alliance"
+  ],
+  "type_offre": [
+   "à partir de 2 articles",
+   "20%"
+  ],
+  "prix_initial": 9.7,
+  "prix_final": 7.76
+ }
+]

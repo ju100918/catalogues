@@ -1,0 +1,91 @@
+[
+ {
+  "produit": "Boules de mozzarella Galbani, 3 x 150 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "lot de 3",
+   "20%"
+  ],
+  "prix_initial": 7.5,
+  "prix_final": 6.0
+ },
+ {
+  "produit": "Mozzarella râpée M-Classic, 500 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 5.4,
+  "prix_final": 4.3
+ },
+ {
+  "produit": "Tous les yogourts Excellence, 150 g",
+  "souscategorie_pyramide": "4.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 4 articles",
+   "20%"
+  ],
+  "prix_initial": 1.05,
+  "prix_final": 0.84
+ },
+ {
+  "produit": "Œufs d'élevage au sol importés, 18 x 53 g+",
+  "souscategorie_pyramide": "5.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "15%"
+  ],
+  "prix_initial": 5.76,
+  "prix_final": 4.85
+ },
+ {
+  "produit": "Repas à boire I'm your meal Emmi, diverses variétés (p. ex. chocolat, 500 ml)",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2 articles",
+   "20%"
+  ],
+  "prix_initial": 4.95,
+  "prix_final": 3.96
+ },
+ {
+  "produit": "Yogourts au lait de la Gruyère mocca, 12 x 90 g",
+  "souscategorie_pyramide": "4.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "lot de 12",
+   "20%"
+  ],
+  "prix_initial": 8.4,
+  "prix_final": 6.7
+ },
+ {
+  "produit": "Double crème de la Gruyère, 250 ml",
+  "souscategorie_pyramide": "6.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2 articles",
+   "20%"
+  ],
+  "prix_initial": 4.75,
+  "prix_final": 3.8
+ }
+]
