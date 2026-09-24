@@ -115,6 +115,55 @@ automatiquement le chiffre avant le point de souscategorie_pyramide
 (ex : "5.5" → 5, "1.2" → 1, "8.1" → 8). Ne redemande jamais ce choix au
 modèle : c'est un calcul, pas une nouvelle classification.
 
+Dans l'Excel, affiche la catégorie et la sous-catégorie avec les
+libellés suivants (déterminés uniquement à partir du code choisi) :
+
+Catégorie :
+  1. Boissons
+  2. Fruits et légumes
+  3. Produits céréaliers et pommes de terre
+  4. Produits laitiers
+  5. Légumineuses, œufs, viande et autres
+  6. Huiles, matière grasse, graines et oléagineux
+  7. Boissons sucrées, sucreries, snacks salés, plats préparés et condiments
+  8. Produits pour bébé
+
+Sous-catégorie :
+  1.1 Eau nature
+  1.2 Eau aromatisée
+  1.3 Jus de fruits 100% fruits
+  1.4 Autres
+  2.1 Fruits
+  2.2 Légumes
+  3.1 Pains
+  3.2 Riz
+  3.3 Pâtes
+  3.4 Pommes de terre
+  3.5 Autres
+  4.1 Fromage
+  4.2 Yogourts et séré aromatisés
+  4.3 Yogourts et séré nature
+  4.4 Boissons lactées sans sucre ajoutés
+  4.5 Autres
+  5.1 Viande hors charcuterie
+  5.2 Charcuterie
+  5.3 Poisson
+  5.4 Œufs
+  5.5 Légumineuses
+  5.6 Autres
+  6.1 Beurre
+  6.2 Huile
+  6.3 Crème
+  6.4 Noix et graines
+  6.5 Autres
+  7.1 Sucreries
+  7.2 Snacks salés
+  7.3 Boissons sucrées
+  7.4 Boissons alcoolisées
+  7.5 Plats préparés, pizzas, pâtes farcies, préparations panées
+  7.6 Sauces et condiments
+  8.1 Produits pour bébé
+
 ÉTAPE 4 — Calcul du rabais
 Pour chaque ligne où prix_initial ET prix_final sont connus, calcule :
 - rabais_montant = prix_initial - prix_final
@@ -126,7 +175,7 @@ Laisse ces deux champs à null si l'un des deux prix manque.
 Rassemble toutes les lignes de tous les catalogues dans un seul fichier
 Excel (.xlsx) nommé promotions_extraites.xlsx, avec une ligne d'en-tête
 claire. Colonnes dans cet ordre : fichier_source, page, produit,
-categorie_pyramide, souscategorie_pyramide, type_poisson, provenance,
+categorie_pyramide, souscategorie_pyramide, provenance, type_poisson,
 label_1, label_2, label_3, type_offre_1, type_offre_2, type_offre_3,
 prix_initial, prix_final, rabais_montant, rabais_pourcentage. Trie par
 fichier_source puis par page.
