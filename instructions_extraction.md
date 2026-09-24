@@ -61,7 +61,8 @@ Pour chaque produit ALIMENTAIRE, extrais les champs suivants :
          boissons protéinées et boissons lactées avec sucres ajoutés)
      7.4 Boissons alcoolisées
      7.5 Plats préparés, pizzas, pâtes farcies, préparations panées à base
-         de viande (ex. nuggets, escalopes panées)
+         de viande ou de poisson (ex. nuggets, escalopes panées, bâtonnets
+         de poisson)
      7.6 Sauces à salade, sauces pour pâtes qui ne sont pas 100% tomate,
          condiments (ex. arôme Maggi)
      8.1 Produits pour bébé (ex. bouillies pour bébé, desserts pour bébé,
