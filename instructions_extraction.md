@@ -35,7 +35,7 @@ Pour chaque produit ALIMENTAIRE, extrais les champs suivants :
      3.2 Riz
      3.3 Pâtes (nature)
      3.4 Pommes de terre
-     3.5 Autres (ex. pâtes farcies)
+     3.5 Autres (les pâtes farcies vont en 7.5)
      (ATTENTION : les légumineuses ne vont PAS en catégorie 3, voir 5.5)
      4.1 Fromage
      4.2 Yogourts aromatisés, séré aromatisé
@@ -47,7 +47,8 @@ Pour chaque produit ALIMENTAIRE, extrais les champs suivants :
      5.3 Poisson
      5.4 Œufs
      5.5 Légumineuses (hors houmous, voir 7.2)
-     5.6 Autres
+     5.6 Autres (ex. tofu et alternatives végétales riches en protéines ;
+         c'est la teneur en protéines qui est déterminante)
      6.1 Beurre
      6.2 Huile (y compris huile d'olive)
      6.3 Crème
@@ -59,8 +60,10 @@ Pour chaque produit ALIMENTAIRE, extrais les champs suivants :
      7.3 Boissons sucrées (y compris boissons sucrées sans alcool,
          boissons protéinées et boissons lactées avec sucres ajoutés)
      7.4 Boissons alcoolisées
-     7.5 Autres (ex. plats préparés, pizzas, sauces à salade, sauces pour
-         pâtes qui ne sont pas 100% tomate, condiments comme l'arôme Maggi)
+     7.5 Plats préparés, pizzas, pâtes farcies, préparations panées à base
+         de viande (ex. nuggets, escalopes panées)
+     7.6 Sauces à salade, sauces pour pâtes qui ne sont pas 100% tomate,
+         condiments (ex. arôme Maggi)
      8.1 Produits pour bébé (ex. bouillies pour bébé, desserts pour bébé,
          lait en poudre pour bébé)
   NE DÉTERMINE PAS de catégorie principale séparément : elle sera
