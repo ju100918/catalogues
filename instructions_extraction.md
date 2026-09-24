@@ -58,7 +58,8 @@ Pour chaque produit ALIMENTAIRE, extrais les champs suivants :
      7.1 Sucreries (y compris müesli, birchermüesli et granola)
      7.2 Snacks salés (y compris olives en sachet ou en conserve, houmous,
          garnitures pour bruschetta, snacks feuilletés, pâtés et pâtes à
-         tartiner de poisson ou de viande, p. ex. pâté de saumon)
+         tartiner salées de poisson, de viande ou de légumes, p. ex. pâté
+         de saumon, tartinable à la tomate)
      7.3 Boissons sucrées (y compris boissons sucrées sans alcool,
          boissons protéinées et boissons lactées avec sucres ajoutés)
      7.4 Boissons alcoolisées (ATTENTION : Migros ne vend pas d'alcool ;
