@@ -1,0 +1,120 @@
+[
+ {
+  "produit": "Rivella rouge ou bleue, 6 x 500 ml, le pack de 6",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Swiss Made"
+  ],
+  "type_offre": [
+   "-30% par rapport à la concurrence",
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": 9.3,
+  "prix_final": 6.49
+ },
+ {
+  "produit": "Fanta, 24 x 330 ml, le pack de 24",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": null,
+  "prix_final": 12.95
+ },
+ {
+  "produit": "Coca-Cola original ou zéro, 12 x 500 ml, le pack de 12",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "9+3 gratuites",
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": null,
+  "prix_final": 12.39
+ },
+ {
+  "produit": "Sprite, 24 x 330 ml, le pack de 24",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": null,
+  "prix_final": 12.95
+ },
+ {
+  "produit": "Boîte Rocher Ferrero, 200 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": null,
+  "prix_final": 5.89
+ },
+ {
+  "produit": "Ferrero Collection, 172 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": null,
+  "prix_final": 6.99
+ },
+ {
+  "produit": "Mon Chéri, 315 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": null,
+  "prix_final": 9.99
+ },
+ {
+  "produit": "Jus de pomme gazeux Ramseier Schorle, 6 x 1,5 litre, le pack de 6",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Swiss Made"
+  ],
+  "type_offre": [
+   "-32% par rapport à la concurrence",
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": 16.2,
+  "prix_final": 10.95
+ },
+ {
+  "produit": "Bière Original Feldschlösschen, 4,8% vol., 24 x 0,5 litre, le pack de 24",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Swiss Made"
+  ],
+  "type_offre": [
+   "-39% par rapport à la concurrence",
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": 46.0,
+  "prix_final": 27.59
+ }
+]

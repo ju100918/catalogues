@@ -1,0 +1,86 @@
+[
+ {
+  "produit": "Sucre cristallisé fin, 1 kg",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-33%",
+   "Superdeal"
+  ],
+  "prix_initial": 1.49,
+  "prix_final": 0.99
+ },
+ {
+  "produit": "Farine pour tresse Happy Harvest, 1 kg",
+  "souscategorie_pyramide": "3.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Produit suisse"
+  ],
+  "type_offre": [
+   "-20%",
+   "Superdeal"
+  ],
+  "prix_initial": 1.99,
+  "prix_final": 1.59
+ },
+ {
+  "produit": "Demi-crème 25% de matières grasses Nature Suisse, 250 ml",
+  "souscategorie_pyramide": "6.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-25%",
+   "Superdeal"
+  ],
+  "prix_initial": 1.59,
+  "prix_final": 1.19
+ },
+ {
+  "produit": "Beurre de choix Milsani, 200 g",
+  "souscategorie_pyramide": "6.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Suisse Garantie"
+  ],
+  "type_offre": [
+   "-22%",
+   "Superdeal"
+  ],
+  "prix_initial": 3.09,
+  "prix_final": 2.39
+ },
+ {
+  "produit": "Pâte à tarte à l'épeautre Good Choice, 250 g",
+  "souscategorie_pyramide": "3.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "V-Label vegan"
+  ],
+  "type_offre": [
+   "-36%",
+   "Superdeal"
+  ],
+  "prix_initial": 1.55,
+  "prix_final": 0.99
+ },
+ {
+  "produit": "Ronco di Sassi vino rosso, 15,5% vol., 375 ml",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-35%",
+   "Superdeal"
+  ],
+  "prix_initial": 8.49,
+  "prix_final": 5.49
+ }
+]

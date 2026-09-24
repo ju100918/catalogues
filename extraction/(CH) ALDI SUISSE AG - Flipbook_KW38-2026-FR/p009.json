@@ -1,0 +1,40 @@
+[
+ {
+  "produit": "Courges bio suisses, butternut ou Hokkaïdo, le kilo",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Retour aux sources",
+   "Suisse Garantie"
+  ],
+  "type_offre": [
+   "-28%",
+   "Superdeal"
+  ],
+  "prix_initial": 3.49,
+  "prix_final": 2.49
+ },
+ {
+  "produit": "Chou-fleur suisse, le kilo",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Suisse Garantie"
+  ],
+  "type_offre": [],
+  "prix_initial": 4.49,
+  "prix_final": null
+ },
+ {
+  "produit": "Prunes, le kilo",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 3.49,
+  "prix_final": null
+ }
+]

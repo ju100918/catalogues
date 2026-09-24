@@ -1,0 +1,43 @@
+[
+ {
+  "produit": "Steak d'échine de porc, nature ou chimichurri, env. 800 g, les 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Suisse Garantie"
+  ],
+  "type_offre": [
+   "Action",
+   "Superdeal"
+  ],
+  "prix_initial": null,
+  "prix_final": 1.19
+ },
+ {
+  "produit": "Viande de lapin en morceaux, env. 600 g, les 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Hongrie",
+  "labels": [],
+  "type_offre": [
+   "Action",
+   "Superdeal"
+  ],
+  "prix_initial": null,
+  "prix_final": 1.59
+ },
+ {
+  "produit": "Filet de saumon de Norvège, frais, 300 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": null,
+  "provenance": "Norvège",
+  "labels": [],
+  "type_offre": [
+   "-25%",
+   "Superdeal"
+  ],
+  "prix_initial": 6.59,
+  "prix_final": 4.89
+ }
+]

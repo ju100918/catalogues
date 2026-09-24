@@ -1,0 +1,102 @@
+[
+ {
+  "produit": "Strudel, pomme 600 g, cerise 500 g ou séré et myrtille 500 g, surgelé",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Baisse de prix"
+  ],
+  "prix_initial": null,
+  "prix_final": 2.85
+ },
+ {
+  "produit": "Dattes Medjoul bio, 300 g",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Bio"
+  ],
+  "type_offre": [
+   "Baisse de prix"
+  ],
+  "prix_initial": null,
+  "prix_final": 4.19
+ },
+ {
+  "produit": "Truffes au chocolat Moser Roth, différentes sortes, 200 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Fairtrade Cocoa"
+  ],
+  "type_offre": [
+   "-10%",
+   "Baisse de prix"
+  ],
+  "prix_initial": 4.99,
+  "prix_final": 4.49
+ },
+ {
+  "produit": "Assortiment de thés noirs Westminster, Earl Grey ou sélection, 1 boîte de 50/40 sachets",
+  "souscategorie_pyramide": "1.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Rainforest Alliance",
+   "V-Label vegan"
+  ],
+  "type_offre": [
+   "Baisse de prix"
+  ],
+  "prix_initial": null,
+  "prix_final": 0.83
+ },
+ {
+  "produit": "Thé Feel Good bio Westminster, différentes sortes, 1 boîte de 20 sachets",
+  "souscategorie_pyramide": "1.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "V-Label vegan",
+   "Bio"
+  ],
+  "type_offre": [
+   "-10%",
+   "Baisse de prix"
+  ],
+  "prix_initial": 1.99,
+  "prix_final": 1.79
+ },
+ {
+  "produit": "Marrons prêts à la consommation Happy Harvest, 125 g",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-13%",
+   "Baisse de prix"
+  ],
+  "prix_initial": 2.29,
+  "prix_final": 1.99
+ },
+ {
+  "produit": "Jus bio, orange ou pomme, 1 litre",
+  "souscategorie_pyramide": "1.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Bio"
+  ],
+  "type_offre": [
+   "-13%",
+   "Baisse de prix"
+  ],
+  "prix_initial": 2.29,
+  "prix_final": 1.99
+ }
+]

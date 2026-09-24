@@ -1,0 +1,95 @@
+[
+ {
+  "produit": "Evian plate, 6 x 1 litre, le pack de 6",
+  "souscategorie_pyramide": "1.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-24% par rapport à la concurrence",
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": 6.6,
+  "prix_final": 4.99
+ },
+ {
+  "produit": "Graines salées Tadim, maïs au BBQ ou graines de courge, 150 g",
+  "souscategorie_pyramide": "7.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": null,
+  "prix_final": 2.19
+ },
+ {
+  "produit": "Toffifee, 625 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "4+1 gratuit",
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": null,
+  "prix_final": 7.95
+ },
+ {
+  "produit": "Œufs d'élevage en plein air XXL, 15 pièces",
+  "souscategorie_pyramide": "5.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Suisse Garantie"
+  ],
+  "type_offre": [
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": null,
+  "prix_final": 6.49
+ },
+ {
+  "produit": "Capsules de café Qualità Rossa compatibles Nespresso, 80 capsules",
+  "souscategorie_pyramide": "1.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-34% par rapport à la concurrence",
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": 39.86,
+  "prix_final": 25.95
+ },
+ {
+  "produit": "Focus Water, 8 x 500 ml, le pack de 8",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Swiss Made"
+  ],
+  "type_offre": [
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": null,
+  "prix_final": 11.95
+ },
+ {
+  "produit": "Pointes de gâteau à la broche sans alcool, chocolat au lait, noir ou blanc, 150 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Fairtrade Cocoa"
+  ],
+  "type_offre": [
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": null,
+  "prix_final": 2.99
+ }
+]

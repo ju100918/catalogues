@@ -1,0 +1,133 @@
+[
+ {
+  "produit": "Spaghettoni Barilla, le pack de 5",
+  "souscategorie_pyramide": "3.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-52% par rapport à la concurrence",
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": 12.5,
+  "prix_final": 5.99
+ },
+ {
+  "produit": "Filet de saumon de Norvège, frais, le paquet",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": null,
+  "provenance": "Norvège",
+  "labels": [],
+  "type_offre": [
+   "-25%",
+   "Superdeal"
+  ],
+  "prix_initial": 6.59,
+  "prix_final": 4.89
+ },
+ {
+  "produit": "Raisin bio, le paquet",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Bio"
+  ],
+  "type_offre": [
+   "-33%",
+   "Superdeal"
+  ],
+  "prix_initial": 2.49,
+  "prix_final": 1.65
+ },
+ {
+  "produit": "Beurre de choix Milsani, 200 g",
+  "souscategorie_pyramide": "6.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-22%",
+   "Superdeal"
+  ],
+  "prix_initial": 3.09,
+  "prix_final": 2.39
+ },
+ {
+  "produit": "Cerneaux de noix Happy Harvest, le paquet",
+  "souscategorie_pyramide": "6.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-28%",
+   "Superdeal"
+  ],
+  "prix_initial": 2.79,
+  "prix_final": 1.99
+ },
+ {
+  "produit": "Huile de friture, la bouteille",
+  "souscategorie_pyramide": "6.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-34% par rapport à la concurrence",
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": 9.9,
+  "prix_final": 6.49
+ },
+ {
+  "produit": "Sucre cristallisé fin, 1 kg",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-33%",
+   "Superdeal"
+  ],
+  "prix_initial": 1.49,
+  "prix_final": 0.99
+ },
+ {
+  "produit": "Fromage de chèvre en tranches, nature, fenugrec ou herbes italiennes, 150 g / 125 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-40%",
+   "Superdeal"
+  ],
+  "prix_initial": 3.59,
+  "prix_final": 2.15
+ },
+ {
+  "produit": "Œufs d'élevage en plein air XXL, 15 pièces",
+  "souscategorie_pyramide": "5.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": null,
+  "prix_final": 6.49
+ },
+ {
+  "produit": "Rivella, le pack de 6",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-30% par rapport à la concurrence",
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": 9.3,
+  "prix_final": 6.49
+ }
+]

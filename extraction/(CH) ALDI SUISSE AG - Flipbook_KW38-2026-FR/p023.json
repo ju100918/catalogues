@@ -1,0 +1,158 @@
+[
+ {
+  "produit": "Marrons en sachet, cuits, Gourmet, 200 g",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": null,
+  "prix_final": 2.49
+ },
+ {
+  "produit": "Marrons à la sauce caramélisée Good Choice, 290 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": null,
+  "prix_final": 4.99
+ },
+ {
+  "produit": "Pâté saumon ou thon Almare, 100 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-26% par rapport à la concurrence",
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": 2.27,
+  "prix_final": 1.79
+ },
+ {
+  "produit": "Choucroute bio, 500 g",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Bio"
+  ],
+  "type_offre": [
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": null,
+  "prix_final": 1.99
+ },
+ {
+  "produit": "Sel de l'Himalaya Le Gusto, différentes sortes, 500 g/200 g",
+  "souscategorie_pyramide": "7.6",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-79% par rapport à la concurrence",
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": 8.63,
+  "prix_final": 1.79
+ },
+ {
+  "produit": "Sauce tomate Barilla Pomodoro, 3 x 400 g, le pack de 3",
+  "souscategorie_pyramide": "7.6",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-43% par rapport à la concurrence",
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": 10.5,
+  "prix_final": 5.99
+ },
+ {
+  "produit": "Civet de cerf ou de chevreuil Good Choice, 600 g/350 g",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": null,
+  "prix_final": 8.99
+ },
+ {
+  "produit": "Spaghettoni Barilla, 5 x 500 g, le pack de 5",
+  "souscategorie_pyramide": "3.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-52% par rapport à la concurrence",
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": 12.5,
+  "prix_final": 5.99
+ },
+ {
+  "produit": "Filets de hareng Almare, MSC, 325 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "MSC"
+  ],
+  "type_offre": [
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": null,
+  "prix_final": 1.99
+ },
+ {
+  "produit": "Filets de saumon marinés Golden Seafood, teriyaki ou gingembre-piment, surgelés, 250 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "GGN"
+  ],
+  "type_offre": [
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": null,
+  "prix_final": 4.99
+ },
+ {
+  "produit": "Filet gourmet à la bordelaise Findus, MSC, surgelé, 380 g",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "MSC"
+  ],
+  "type_offre": [
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": null,
+  "prix_final": 5.99
+ },
+ {
+  "produit": "Fish & Chips Findus, surgelé, 400 g",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Action à partir du lundi 21.9"
+  ],
+  "prix_initial": null,
+  "prix_final": 4.99
+ }
+]

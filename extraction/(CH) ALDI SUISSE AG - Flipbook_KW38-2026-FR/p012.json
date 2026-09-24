@@ -1,0 +1,68 @@
+[
+ {
+  "produit": "Vermicelles, surgelés, 3 x 200 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-33%",
+   "Superdeal"
+  ],
+  "prix_initial": 5.95,
+  "prix_final": 3.95
+ },
+ {
+  "produit": "Cerneaux de noix Happy Harvest, 200 g",
+  "souscategorie_pyramide": "6.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-28%",
+   "Superdeal"
+  ],
+  "prix_initial": 2.79,
+  "prix_final": 1.99
+ },
+ {
+  "produit": "Huile de coco bio, 500 ml",
+  "souscategorie_pyramide": "6.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Bio"
+  ],
+  "type_offre": [
+   "-30%",
+   "Superdeal"
+  ],
+  "prix_initial": 6.65,
+  "prix_final": 4.65
+ },
+ {
+  "produit": "Cacao Back Family, 250 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Fairtrade Cocoa"
+  ],
+  "type_offre": [
+   "-22%",
+   "Superdeal"
+  ],
+  "prix_initial": 3.59,
+  "prix_final": 2.79
+ },
+ {
+  "produit": "Poudre à lever Back Family, 10 x 15 g, le pack de 10",
+  "souscategorie_pyramide": "7.6",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 0.49,
+  "prix_final": null
+ }
+]
