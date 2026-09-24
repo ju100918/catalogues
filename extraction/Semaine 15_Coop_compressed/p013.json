@@ -1,0 +1,158 @@
+[
+ {
+  "produit": "La Côte AOC Grand Cru Mont-sur-Rolle Château de Mont-sur-Rolle 2023, 6 x 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "AOC"
+  ],
+  "type_offre": [
+   "50%"
+  ],
+  "prix_initial": 77.7,
+  "prix_final": 38.85
+ },
+ {
+  "produit": "Pouilly-Fumé AOC Sauvignon Blanc La Ralotte Adrien Maréchal 2024, 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "AOC"
+  ],
+  "type_offre": [
+   "35%"
+  ],
+  "prix_initial": 19.95,
+  "prix_final": 12.95
+ },
+ {
+  "produit": "Pays d'Oc IGP Chardonnay La Sensuelle 2025, 6 x 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "IGP"
+  ],
+  "type_offre": [
+   "40%"
+  ],
+  "prix_initial": 33.0,
+  "prix_final": 19.8
+ },
+ {
+  "produit": "Valais AOC Rosé Œil de Perdrix Alia 2024, 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "AOC"
+  ],
+  "type_offre": [
+   "40%"
+  ],
+  "prix_initial": 12.95,
+  "prix_final": 7.75
+ },
+ {
+  "produit": "Vin de Pays Méditerranée IGP Rosé Domaine de L'Isle St. Pierre 2024, 6 x 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "IGP"
+  ],
+  "type_offre": [
+   "40%"
+  ],
+  "prix_initial": 35.7,
+  "prix_final": 21.3
+ },
+ {
+  "produit": "Pays d'Oc IGP Cabernet Sauvignon/Syrah J.P. Chenet 2024, 6 x 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "IGP"
+  ],
+  "type_offre": [
+   "50%"
+  ],
+  "prix_initial": 41.7,
+  "prix_final": 20.85
+ },
+ {
+  "produit": "Puisseguin Saint-Émilion AOC Château Guibeau 2022 bio Naturaplan, 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Naturaplan",
+   "Bio",
+   "AOC"
+  ],
+  "type_offre": [
+   "29%"
+  ],
+  "prix_initial": 16.95,
+  "prix_final": 11.95
+ },
+ {
+  "produit": "Malbec Mendoza Argentina La Mascota 2023, 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": "Argentine",
+  "labels": [],
+  "type_offre": [
+   "46%"
+  ],
+  "prix_initial": 18.5,
+  "prix_final": 9.95
+ },
+ {
+  "produit": "Cava DO Selección Raventós Codorníu, brut, 6 x 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "DO"
+  ],
+  "type_offre": [
+   "50%"
+  ],
+  "prix_initial": 93.0,
+  "prix_final": 46.5
+ },
+ {
+  "produit": "Jägermeister, 35%, 70 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 17.95,
+  "prix_final": null
+ },
+ {
+  "produit": "Blended Scotch Whisky Ballantine's, 40%, 70 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 14.95,
+  "prix_final": null
+ },
+ {
+  "produit": "Dry Gin Bombay Sapphire, 40%, 70 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 23.9,
+  "prix_final": null
+ }
+]

@@ -1,0 +1,99 @@
+[
+ {
+  "produit": "Mozzarella Coop Mollini, 3 x 150 g, trio",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Suisse Garantie"
+  ],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 4.95,
+  "prix_final": 3.95
+ },
+ {
+  "produit": "Crème chantilly au chocolat La Laitière Nestlé, 8 x 100 g, multipack",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 5.7,
+  "prix_final": 3.95
+ },
+ {
+  "produit": "Le Moelleux bio Naturaplan, 2 x 200 g, duo",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Naturaplan",
+   "Bio Suisse"
+  ],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 11.2,
+  "prix_final": 8.85
+ },
+ {
+  "produit": "Parmigiano Reggiano Sapori d'Italia, DOP, pointe, env. 350 g, les 100 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "DOP"
+  ],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 2.95,
+  "prix_final": 2.35
+ },
+ {
+  "produit": "Le Gruyère surchoix bio Naturaplan, AOP, env. 350 g, les 100 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Naturaplan",
+   "Bio Suisse",
+   "AOP"
+  ],
+  "type_offre": [
+   "21%"
+  ],
+  "prix_initial": 3.05,
+  "prix_final": 2.4
+ },
+ {
+  "produit": "Le Gruyère mi-salé Coop, AOP, 2 x env. 280 g, duo, les 100 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "AOP"
+  ],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 2.2,
+  "prix_final": 1.75
+ },
+ {
+  "produit": "Tilsiter vert Coop, XL, env. 400 g, les 100 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "21%"
+  ],
+  "prix_initial": 1.65,
+  "prix_final": 1.3
+ }
+]

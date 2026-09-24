@@ -1,0 +1,123 @@
+[
+ {
+  "produit": "Toutes les bières Birra Moretti Zero, sans alcool, en multipack (p. ex. 6 x 33 cl)",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2",
+   "30%",
+   "Actions hypermarché"
+  ],
+  "prix_initial": 9.6,
+  "prix_final": 6.7
+ },
+ {
+  "produit": "Birra Moretti, 24 x 33 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "40%",
+   "Actions hypermarché"
+  ],
+  "prix_initial": 35.2,
+  "prix_final": 20.95
+ },
+ {
+  "produit": "Toutes les bières Birra Moretti Sale di Mare en multipack (p. ex. 6 x 33 cl)",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2",
+   "30%",
+   "Actions hypermarché"
+  ],
+  "prix_initial": 9.95,
+  "prix_final": 6.95
+ },
+ {
+  "produit": "Bière Ichnusa, 24 x 33 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "43%",
+   "Actions hypermarché"
+  ],
+  "prix_initial": 45.6,
+  "prix_final": 25.95
+ },
+ {
+  "produit": "Toutes les bières Sagres en multipack (p. ex. 6 x 33 cl)",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2",
+   "30%",
+   "Actions hypermarché"
+  ],
+  "prix_initial": 6.9,
+  "prix_final": 4.8
+ },
+ {
+  "produit": "Bière Radler Calanda, 24 x 33 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "34%",
+   "Actions hypermarché"
+  ],
+  "prix_initial": 34.0,
+  "prix_final": 22.4
+ },
+ {
+  "produit": "Bière Heineken, en canette, 24 x 50 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "50%",
+   "Actions hypermarché"
+  ],
+  "prix_initial": 55.2,
+  "prix_final": 27.6
+ },
+ {
+  "produit": "Bière blanche avec ou sans alcool Erdinger, en canette, 24 x 50 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "50%",
+   "Actions hypermarché"
+  ],
+  "prix_initial": 54.0,
+  "prix_final": 27.0
+ },
+ {
+  "produit": "Toutes les bières Desperados en multipack (p. ex. Original, en canette, 6 x 50 cl)",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2",
+   "25%",
+   "Actions hypermarché"
+  ],
+  "prix_initial": 14.4,
+  "prix_final": 10.8
+ }
+]

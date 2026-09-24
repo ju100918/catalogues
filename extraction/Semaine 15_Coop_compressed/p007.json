@@ -1,0 +1,161 @@
+[
+ {
+  "produit": "Tous les produits Oatly (p. ex. boisson à l'avoine Barista Oatly, 1 litre)",
+  "souscategorie_pyramide": "4.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2",
+   "20%"
+  ],
+  "prix_initial": 3.4,
+  "prix_final": 2.7
+ },
+ {
+  "produit": "Tous les yogourts, boissons et desserts réfrigérés Coop High Protein (p. ex. drink chocolat Coop High Protein, Fairtrade Max Havelaar, 500 ml)",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Fairtrade Max Havelaar"
+  ],
+  "type_offre": [
+   "à partir de 2",
+   "30%"
+  ],
+  "prix_initial": 1.95,
+  "prix_final": 1.35
+ },
+ {
+  "produit": "Yogourts à boire Multifruits Actimel Danone, 12 x 100 g, multipack",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Action"
+  ],
+  "prix_initial": 9.6,
+  "prix_final": 7.95
+ },
+ {
+  "produit": "Yogourts Activia aux fruits Danone, 8 x 115 g, multipack",
+  "souscategorie_pyramide": "4.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "25%",
+   "6+2 gratuits"
+  ],
+  "prix_initial": 6.95,
+  "prix_final": 5.2
+ },
+ {
+  "produit": "Yogourts Fior di latte bio Naturaplan, 4 x 125 g, quattro",
+  "souscategorie_pyramide": "4.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Naturaplan",
+   "Bio Suisse"
+  ],
+  "type_offre": [
+   "Yogourt du mois"
+  ],
+  "prix_initial": null,
+  "prix_final": 3.95
+ },
+ {
+  "produit": "Yogourts Myrtille-Framboise-Cerise Coop, 6 x 180 g, multipack",
+  "souscategorie_pyramide": "4.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Action"
+  ],
+  "prix_initial": 3.8,
+  "prix_final": 3.25
+ },
+ {
+  "produit": "Mini-millefeuilles Coop, 9 pièces, 225 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "1.- de moins"
+  ],
+  "prix_initial": 5.95,
+  "prix_final": 4.95
+ },
+ {
+  "produit": "Toutes les tranches de tarte Coop (p. ex. tarte aux abricots Betty Bossi, 220 g)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 3.35,
+  "prix_final": 2.65
+ },
+ {
+  "produit": "Cake tyrolien Betty Bossi, Fairtrade Max Havelaar, 400 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Fairtrade Max Havelaar"
+  ],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 4.95,
+  "prix_final": 3.45
+ },
+ {
+  "produit": "Tous les Appenzeller Bärli-Biber (p. ex. Bischofberger, 4 x 75 g, quattro)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 6.8,
+  "prix_final": 5.4
+ },
+ {
+  "produit": "Pain de mie complet bio Naturaplan, 500 g",
+  "souscategorie_pyramide": "3.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Naturaplan",
+   "Bio"
+  ],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 5.0,
+  "prix_final": 3.5
+ },
+ {
+  "produit": "Croissants au beurre précuits Betty Bossi, IP-Suisse, 2 x 170 g, duo",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "IP-Suisse"
+  ],
+  "type_offre": [
+   "21%"
+  ],
+  "prix_initial": 5.0,
+  "prix_final": 3.95
+ }
+]

@@ -1,0 +1,112 @@
+[
+ {
+  "produit": "Steak de cheval Coop, en service traditionnel, les 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "France/Espagne",
+  "labels": [],
+  "type_offre": [
+   "20%",
+   "Le hit du boucher"
+  ],
+  "prix_initial": 4.35,
+  "prix_final": 3.45
+ },
+ {
+  "produit": "Escalopes de veau Naturafarm Natura-Veal, en service traditionnel, les 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Naturafarm",
+   "Natura-Veal"
+  ],
+  "type_offre": [
+   "20%",
+   "Le hit du boucher"
+  ],
+  "prix_initial": 9.4,
+  "prix_final": 7.5
+ },
+ {
+  "produit": "Steaks de porc dans le filet Naturafarm, 4 pièces, env. 640 g, les 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Naturafarm"
+  ],
+  "type_offre": [
+   "40%"
+  ],
+  "prix_initial": 3.55,
+  "prix_final": 2.1
+ },
+ {
+  "produit": "Steaks de cuisse de poulet Coop, env. 600 g, les 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Slovénie",
+  "labels": [],
+  "type_offre": [
+   "Action"
+  ],
+  "prix_initial": 1.45,
+  "prix_final": 1.3
+ },
+ {
+  "produit": "Pavés de saumon sans la peau Coop, ASC, 2 x 200 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": "élevage",
+  "provenance": "Norvège",
+  "labels": [
+   "ASC"
+  ],
+  "type_offre": [
+   "28%"
+  ],
+  "prix_initial": 21.0,
+  "prix_final": 14.95
+ },
+ {
+  "produit": "Filet de cabillaud Royal Coop, 450 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": "élevage",
+  "provenance": "Norvège",
+  "labels": [],
+  "type_offre": [
+   "42%"
+  ],
+  "prix_initial": 27.9,
+  "prix_final": 15.95
+ },
+ {
+  "produit": "Filets de truite fumés Coop, ASC, 3 x 125 g, trio",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": "élevage",
+  "provenance": "Danemark",
+  "labels": [
+   "ASC"
+  ],
+  "type_offre": [
+   "26%"
+  ],
+  "prix_initial": 13.5,
+  "prix_final": 9.95
+ },
+ {
+  "produit": "Crevettes bio Naturaplan, crues, décortiquées, 41-60, 350 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": "élevage",
+  "provenance": "Vietnam",
+  "labels": [
+   "Naturaplan",
+   "Bio"
+  ],
+  "type_offre": [
+   "33%"
+  ],
+  "prix_initial": 22.4,
+  "prix_final": 14.95
+ }
+]

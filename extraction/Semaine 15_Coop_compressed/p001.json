@@ -1,0 +1,68 @@
+[
+ {
+  "produit": "Fraises Cléry, le sachet de 750 g",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "France",
+  "labels": [],
+  "type_offre": [
+   "40%"
+  ],
+  "prix_initial": 11.55,
+  "prix_final": 6.9
+ },
+ {
+  "produit": "Blancs de poulet Coop, env. 850 g, les 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Slovénie",
+  "labels": [],
+  "type_offre": [
+   "45%"
+  ],
+  "prix_initial": 2.65,
+  "prix_final": 1.45
+ },
+ {
+  "produit": "Cordons-bleus de porc dans le cou Betty Bossi, Naturafarm, env. 680 g, les 100 g",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Naturafarm"
+  ],
+  "type_offre": [
+   "50%"
+  ],
+  "prix_initial": 2.95,
+  "prix_final": 1.45
+ },
+ {
+  "produit": "Huile d'olive extra vierge Don Felipe, 1 litre",
+  "souscategorie_pyramide": "6.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2",
+   "40%"
+  ],
+  "prix_initial": 12.5,
+  "prix_final": 7.5
+ },
+ {
+  "produit": "Pays d'Oc IGP Cuvée Rouge ou Cuvée Blanc H de l'Hospitalet Gérard Bertrand 2024 bio, 6 x 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": "France",
+  "labels": [
+   "Bio",
+   "IGP"
+  ],
+  "type_offre": [
+   "50%"
+  ],
+  "prix_initial": 87.0,
+  "prix_final": 43.5
+ }
+]

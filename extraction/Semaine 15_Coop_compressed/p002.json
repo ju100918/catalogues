@@ -1,0 +1,54 @@
+[
+ {
+  "produit": "Asperges blanches, la botte de 1 kg",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": "France/Italie/Espagne/Hongrie/Grèce",
+  "labels": [],
+  "type_offre": [
+   "23%"
+  ],
+  "prix_initial": 12.95,
+  "prix_final": 9.95
+ },
+ {
+  "produit": "Pointes d'asperges vertes, le sachet de 300 g",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": "Espagne",
+  "labels": [],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 6.4,
+  "prix_final": 4.45
+ },
+ {
+  "produit": "Pommes de terre bio Naturaplan, fermes à la cuisson, 2 sachets de 1 kg",
+  "souscategorie_pyramide": "3.4",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Naturaplan",
+   "Bio Suisse"
+  ],
+  "type_offre": [
+   "2 pour 1"
+  ],
+  "prix_initial": 5.8,
+  "prix_final": 2.9
+ },
+ {
+  "produit": "Poivrons, plusieurs couleurs, le sachet de 700 g",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": "Espagne",
+  "labels": [],
+  "type_offre": [
+   "Superprix",
+   "L'offre fraîcheur"
+  ],
+  "prix_initial": null,
+  "prix_final": 2.0
+ }
+]

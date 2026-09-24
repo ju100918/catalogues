@@ -1,0 +1,91 @@
+[
+ {
+  "produit": "Coca-Cola Zero ou Classic, 6 x 1,5 litre",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2",
+   "44%"
+  ],
+  "prix_initial": 14.7,
+  "prix_final": 8.2
+ },
+ {
+  "produit": "Thé glacé Lemon ou Peach Nestea, 6 x 1,5 litre",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "41%"
+  ],
+  "prix_initial": 11.95,
+  "prix_final": 6.95
+ },
+ {
+  "produit": "Boisson Multivitamin, Monster Alarm ou Multivitamin Zero Capri-Sun, 10 x 20 cl",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2",
+   "33%"
+  ],
+  "prix_initial": 4.95,
+  "prix_final": 3.3
+ },
+ {
+  "produit": "Tous les jus Coop, 4 x 1 litre, en brique Tetra Pak (p. ex. jus d'orange Coop, Fairtrade Max Havelaar)",
+  "souscategorie_pyramide": "1.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Fairtrade Max Havelaar"
+  ],
+  "type_offre": [
+   "à partir de 2",
+   "30%"
+  ],
+  "prix_initial": 7.2,
+  "prix_final": 5.0
+ },
+ {
+  "produit": "Bière Old Boxer, en canette, 24 x 50 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "36%"
+  ],
+  "prix_initial": 46.8,
+  "prix_final": 29.95
+ },
+ {
+  "produit": "Bière Stella Artois, 24 x 33 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "50%"
+  ],
+  "prix_initial": 39.8,
+  "prix_final": 19.9
+ },
+ {
+  "produit": "Bière Original Feldschlösschen, 18 x 33 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "33%"
+  ],
+  "prix_initial": 22.5,
+  "prix_final": 14.95
+ }
+]

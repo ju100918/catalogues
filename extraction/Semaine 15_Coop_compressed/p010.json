@@ -1,0 +1,157 @@
+[
+ {
+  "produit": "Spaghettis n° 5 ou Pennes rigates n° 73 Barilla, 3 x 500 g, trio",
+  "souscategorie_pyramide": "3.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 7.5,
+  "prix_final": 5.25
+ },
+ {
+  "produit": "Sugo al basilico ou all'arrabbiata Barilla, 3 x 400 g, trio",
+  "souscategorie_pyramide": "7.6",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 9.0,
+  "prix_final": 7.2
+ },
+ {
+  "produit": "Tomates bio Naturaplan, concassées, 3 x 400 g, trio",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Naturaplan",
+   "Bio"
+  ],
+  "type_offre": [
+   "33%"
+  ],
+  "prix_initial": 4.8,
+  "prix_final": 3.2
+ },
+ {
+  "produit": "Tomates bio Naturaplan, pelées, 3 x 400 g, trio",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Naturaplan",
+   "Bio"
+  ],
+  "type_offre": [
+   "33%"
+  ],
+  "prix_initial": 6.0,
+  "prix_final": 4.0
+ },
+ {
+  "produit": "Chips Original Paprika Zweifel, 3 x 175 g, trio",
+  "souscategorie_pyramide": "7.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "33%"
+  ],
+  "prix_initial": 12.6,
+  "prix_final": 8.4
+ },
+ {
+  "produit": "Toutes les chips Keogh's (p. ex. Atlantic Sea Salt and Vinegar, 125 g)",
+  "souscategorie_pyramide": "7.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2",
+   "30%"
+  ],
+  "prix_initial": 4.95,
+  "prix_final": 3.45
+ },
+ {
+  "produit": "Biscuits Classico Gran Cereale, 2 x 250 g, duo",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "22%"
+  ],
+  "prix_initial": 5.9,
+  "prix_final": 4.6
+ },
+ {
+  "produit": "Toutes les gommes aux fruits Katjes (p. ex. bandes acidulées Fraise Sour Power, 200 g)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2",
+   "30%"
+  ],
+  "prix_initial": 2.95,
+  "prix_final": 2.05
+ },
+ {
+  "produit": "Fruity's Coop, 1 kg",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "40%"
+  ],
+  "prix_initial": 9.85,
+  "prix_final": 5.9
+ },
+ {
+  "produit": "Mini-gaufrettes Classic Kägi fret, 3 x 128 g, trio",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 11.85,
+  "prix_final": 8.2
+ },
+ {
+  "produit": "Toutes les barres Coop High Protein (p. ex. barre Cookies & Cream, 45 g)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2",
+   "33%"
+  ],
+  "prix_initial": 1.95,
+  "prix_final": 1.3
+ },
+ {
+  "produit": "Branches Classic Halba, Fairtrade Max Havelaar, 50 x 23 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Fairtrade Max Havelaar"
+  ],
+  "type_offre": [
+   "47%"
+  ],
+  "prix_initial": 24.75,
+  "prix_final": 12.95
+ }
+]

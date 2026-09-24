@@ -1,0 +1,138 @@
+[
+ {
+  "produit": "Baguette de Sils bio Naturaplan, 280 g",
+  "souscategorie_pyramide": "3.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Naturaplan",
+   "Bio"
+  ],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 3.5,
+  "prix_final": 2.8
+ },
+ {
+  "produit": "Toutes les confitures bio Naturaplan (p. ex. confiture d'abricots, 250 g)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Naturaplan",
+   "Bio"
+  ],
+  "type_offre": [
+   "à partir de 2",
+   "20%"
+  ],
+  "prix_initial": 4.95,
+  "prix_final": 3.95
+ },
+ {
+  "produit": "Tranches au lait Kinder, 5 x 28 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2",
+   "20%"
+  ],
+  "prix_initial": 1.7,
+  "prix_final": 1.35
+ },
+ {
+  "produit": "Plaques de chocolat Lait-Noisettes ou Lait extra Halba, Fairtrade Max Havelaar, 12 x 100 g, multipack",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Fairtrade Max Havelaar"
+  ],
+  "type_offre": [
+   "43%"
+  ],
+  "prix_initial": 26.4,
+  "prix_final": 14.95
+ },
+ {
+  "produit": "Shrimp Dumplings Betty Bossi, ASC, 2 x 300 g, duo",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "ASC"
+  ],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 17.0,
+  "prix_final": 11.9
+ },
+ {
+  "produit": "Boules Lait Lindor Lindt, 500 g + 40% gratuits",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "+40% gratuits"
+  ],
+  "prix_initial": null,
+  "prix_final": 25.95
+ },
+ {
+  "produit": "Pennes rigates Sapori d'Italia, 3 x 500 g, trio",
+  "souscategorie_pyramide": "3.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "33%"
+  ],
+  "prix_initial": 7.5,
+  "prix_final": 5.0
+ },
+ {
+  "produit": "Toutes les bouteilles individuelles Vitamin Well (p. ex. boisson Reload, 50 cl)",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2",
+   "30%"
+  ],
+  "prix_initial": 2.25,
+  "prix_final": 1.55
+ },
+ {
+  "produit": "Sugo al basilico ou alla toscana bio Naturaplan, 3 x 400 g, trio",
+  "souscategorie_pyramide": "7.6",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Naturaplan",
+   "Bio"
+  ],
+  "type_offre": [
+   "33%"
+  ],
+  "prix_initial": 8.85,
+  "prix_final": 5.9
+ },
+ {
+  "produit": "Bière Stella Artois, en canette, 24 x 50 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "50%"
+  ],
+  "prix_initial": 52.8,
+  "prix_final": 26.4
+ }
+]

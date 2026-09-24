@@ -1,0 +1,90 @@
+[
+ {
+  "produit": "Lardons Naturafarm, 2 x env. 160 g, duo, les 100 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Naturafarm"
+  ],
+  "type_offre": [
+   "+1 gratuite pâte à tarte flambée Betty Bossi"
+  ],
+  "prix_initial": null,
+  "prix_final": 3.25
+ },
+ {
+  "produit": "Salami de l'Alpstein Coop, env. 160 g, les 100 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 5.4,
+  "prix_final": 4.3
+ },
+ {
+  "produit": "Jambon de derrière cuit Naturafarm, 3 x 160 g, trio",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Naturafarm"
+  ],
+  "type_offre": [
+   "31%"
+  ],
+  "prix_initial": 14.55,
+  "prix_final": 9.95
+ },
+ {
+  "produit": "Jambon de campagne fumé Malbuner, 3 x env. 120 g, trio, les 100 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "23%"
+  ],
+  "prix_initial": 5.85,
+  "prix_final": 4.45
+ },
+ {
+  "produit": "Cervelas Coop, 10 pièces, 1 kg",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "36%"
+  ],
+  "prix_initial": 12.5,
+  "prix_final": 7.95
+ },
+ {
+  "produit": "Escargots de porc vaudois Bell, 4 x 130 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "24%"
+  ],
+  "prix_initial": 15.9,
+  "prix_final": 11.95
+ },
+ {
+  "produit": "Burgers de bœuf Provençale Bell, 4 x 125 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "38%"
+  ],
+  "prix_initial": 12.95,
+  "prix_final": 7.95
+ }
+]

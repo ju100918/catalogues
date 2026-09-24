@@ -1,0 +1,138 @@
+[
+ {
+  "produit": "Crunchy Sticks fourrés crème noisettes, cacao et noix de coco bio Freche Freunde, à partir de 3 ans, 23 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Bio"
+  ],
+  "type_offre": [
+   "10%",
+   "Prix de lancement"
+  ],
+  "prix_initial": 1.4,
+  "prix_final": 1.25
+ },
+ {
+  "produit": "Snack Knusper Donuts Banane-Cacao-Cannelle bio Freche Freunde, à partir de 3 ans, 60 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Bio"
+  ],
+  "type_offre": [
+   "10%",
+   "Prix de lancement"
+  ],
+  "prix_initial": 3.5,
+  "prix_final": 3.15
+ },
+ {
+  "produit": "Crunchy Bits fourrés crème noisettes et cacao bio Freche Freunde, à partir de 3 ans, 30 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Bio"
+  ],
+  "type_offre": [
+   "10%",
+   "Prix de lancement"
+  ],
+  "prix_initial": 1.95,
+  "prix_final": 1.75
+ },
+ {
+  "produit": "Crème Creamy Noisette-Cacao bio Freche Freunde, Fairtrade Max Havelaar, à partir de 3 ans, 180 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Bio",
+   "Fairtrade Max Havelaar"
+  ],
+  "type_offre": [
+   "10%",
+   "Prix de lancement"
+  ],
+  "prix_initial": 5.95,
+  "prix_final": 5.35
+ },
+ {
+  "produit": "Gourde Knuddel ou Petite Sirène bio Pure & Fun, à partir de 12 mois, 100 g",
+  "souscategorie_pyramide": "8.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Bio"
+  ],
+  "type_offre": [
+   "10%",
+   "Prix de lancement"
+  ],
+  "prix_initial": null,
+  "prix_final": 1.6
+ },
+ {
+  "produit": "Snack Pat'Patrouille Power bio Pure & Fun, à partir de 12 mois, 40 g",
+  "souscategorie_pyramide": "8.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Bio"
+  ],
+  "type_offre": [
+   "10%",
+   "Prix de lancement"
+  ],
+  "prix_initial": 1.95,
+  "prix_final": 1.75
+ },
+ {
+  "produit": "Barre fruitée Peppa Pig ou La Reine des Neiges bio Pure & Fun, à partir de 3 ans, 25 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Bio"
+  ],
+  "type_offre": [
+   "10%",
+   "Prix de lancement"
+  ],
+  "prix_initial": null,
+  "prix_final": 1.25
+ },
+ {
+  "produit": "Boisson Knuddel ou Heldinnen bio Pure & Fun, à partir de 3 ans, 330 ml",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Bio"
+  ],
+  "type_offre": [
+   "10%",
+   "Prix de lancement"
+  ],
+  "prix_initial": null,
+  "prix_final": 1.75
+ },
+ {
+  "produit": "Müesli Helden ou porridge Heldinnen bio Pure & Fun, à partir de 3 ans, 375 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Bio"
+  ],
+  "type_offre": [
+   "10%",
+   "Prix de lancement"
+  ],
+  "prix_initial": null,
+  "prix_final": 4.45
+ }
+]
