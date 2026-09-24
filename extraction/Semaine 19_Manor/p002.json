@@ -1,0 +1,120 @@
+[
+ {
+  "produit": "Framboises, 250 g",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Italie, Portugal",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 6.5,
+  "prix_final": 5.2
+ },
+ {
+  "produit": "Pomme Pink Lady, prix au kg",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 5.2,
+  "prix_final": 4.15
+ },
+ {
+  "produit": "Asperges blanches, prix au kg",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": "Italie, France",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 19.9,
+  "prix_final": 15.9
+ },
+ {
+  "produit": "Crevettes décortiquées crues, décongelées, issues de la pêche durable, FOS, prix par 100 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": null,
+  "provenance": "Océan Indien-Est (zone de pêche)",
+  "labels": [
+   "Friend of the Sea"
+  ],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 6.5,
+  "prix_final": 4.5
+ },
+ {
+  "produit": "Vongole veraci, prix par 100 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": "élevage",
+  "provenance": "Italie",
+  "labels": [],
+  "type_offre": [
+   "33%"
+  ],
+  "prix_initial": 3.25,
+  "prix_final": 2.15
+ },
+ {
+  "produit": "Dos de saumon fumé CT Océane, emballage d'env. 150 g, prix par 100 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": null,
+  "provenance": "Écosse",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 12.0,
+  "prix_final": 9.6
+ },
+ {
+  "produit": "Tresse au beurre bio, fait maison, 500 g",
+  "souscategorie_pyramide": "3.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Frais & fait maison",
+   "Bio"
+  ],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 5.4,
+  "prix_final": 4.3
+ },
+ {
+  "produit": "Bâtonnet aux olives bio, fait maison, 95 g",
+  "souscategorie_pyramide": "3.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Frais & fait maison",
+   "Bio"
+  ],
+  "type_offre": [
+   "22%"
+  ],
+  "prix_initial": 1.8,
+  "prix_final": 1.4
+ },
+ {
+  "produit": "Mignons 7 pcs, fait maison, 190 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Frais & fait maison"
+  ],
+  "type_offre": [
+   "23%"
+  ],
+  "prix_initial": 9.1,
+  "prix_final": 6.95
+ }
+]

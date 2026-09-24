@@ -1,0 +1,116 @@
+[
+ {
+  "produit": "Saumon sauvage Keta CT Océane, duo pack, 2 x 120 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": "sauvage",
+  "provenance": "Alaska",
+  "labels": [],
+  "type_offre": [
+   "24%"
+  ],
+  "prix_initial": 34.5,
+  "prix_final": 25.9
+ },
+ {
+  "produit": "Saucisson vaudois IGP, emballage d'env. 380 g, prix par 100 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "IGP"
+  ],
+  "type_offre": [
+   "35%"
+  ],
+  "prix_initial": 2.85,
+  "prix_final": 1.85
+ },
+ {
+  "produit": "Cervelas, 2 x 100 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "33%"
+  ],
+  "prix_initial": 2.95,
+  "prix_final": 1.95
+ },
+ {
+  "produit": "Raclette Valdor AOP, prix par 100 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "AOP"
+  ],
+  "type_offre": [
+   "21%"
+  ],
+  "prix_initial": 2.85,
+  "prix_final": 2.25
+ },
+ {
+  "produit": "Ricotta de la Valtellina, prix par 100 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": "Italie",
+  "labels": [],
+  "type_offre": [
+   "21%"
+  ],
+  "prix_initial": 1.65,
+  "prix_final": 1.3
+ },
+ {
+  "produit": "Mozzarella di Bufala Campana DOP Antichi Sapori, 250 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": "Italie",
+  "labels": [
+   "DOP"
+  ],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 7.5,
+  "prix_final": 6.0
+ },
+ {
+  "produit": "Bresaola Citterio 1878, 80 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": "UE",
+  "labels": [],
+  "type_offre": [
+   "21%"
+  ],
+  "prix_initial": 7.5,
+  "prix_final": 5.9
+ },
+ {
+  "produit": "Mortadelle Citterio 1878, 80 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": "UE",
+  "labels": [],
+  "type_offre": [
+   "24%"
+  ],
+  "prix_initial": 3.9,
+  "prix_final": 2.95
+ },
+ {
+  "produit": "Coppa Citterio 1878, 80 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": "Italie",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 5.5,
+  "prix_final": 4.4
+ }
+]

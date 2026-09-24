@@ -1,0 +1,115 @@
+[
+ {
+  "produit": "Tartare de bœuf, nature ou piquant, prix par 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Frais & fait maison"
+  ],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 6.25,
+  "prix_final": 4.95
+ },
+ {
+  "produit": "Carpaccio de bœuf pièce ronde avec rucola et Grana Padano, prix par 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Frais & fait maison"
+  ],
+  "type_offre": [],
+  "prix_initial": 6.25,
+  "prix_final": null
+ },
+ {
+  "produit": "Vitello tonnato, prix par 100 g",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Frais & fait maison"
+  ],
+  "type_offre": [],
+  "prix_initial": 5.25,
+  "prix_final": null
+ },
+ {
+  "produit": "Roastbeef avec sauce tartare, prix par 100 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Frais & fait maison"
+  ],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 6.95,
+  "prix_final": 5.55
+ },
+ {
+  "produit": "Salade de poulpe, fait maison, prix par 100 g",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": "Atlantique Centre-Est (zone de pêche)",
+  "labels": [
+   "Frais & fait maison"
+  ],
+  "type_offre": [],
+  "prix_initial": 6.95,
+  "prix_final": null
+ },
+ {
+  "produit": "Salade anchois à l'ail, fait maison, prix par 100 g",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": "Atlantique Centre-Est (zone de pêche)",
+  "labels": [
+   "Frais & fait maison"
+  ],
+  "type_offre": [],
+  "prix_initial": 3.95,
+  "prix_final": null
+ },
+ {
+  "produit": "Tartare de saumon nature, fait maison, prix au 100 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": "élevage",
+  "provenance": "Norvège",
+  "labels": [
+   "Frais & fait maison"
+  ],
+  "type_offre": [],
+  "prix_initial": 6.5,
+  "prix_final": null
+ },
+ {
+  "produit": "Tartare de thon, fait maison, prix par 100 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": null,
+  "provenance": "Océan Indien-Ouest (zone de pêche)",
+  "labels": [
+   "Frais & fait maison"
+  ],
+  "type_offre": [],
+  "prix_initial": 6.95,
+  "prix_final": null
+ },
+ {
+  "produit": "Carpaccio de saumon, fait maison, FOS, prix par 100 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": "élevage",
+  "provenance": "Écosse",
+  "labels": [
+   "Frais & fait maison",
+   "Friend of the Sea"
+  ],
+  "type_offre": [],
+  "prix_initial": 5.95,
+  "prix_final": null
+ }
+]

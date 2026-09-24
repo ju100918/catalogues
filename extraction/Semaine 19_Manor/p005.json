@@ -1,0 +1,91 @@
+[
+ {
+  "produit": "Toute la gamme de pâtes Barilla Al Bronzo et pestos Barilla (p. ex. spaghetti al bronzo, 500 g)",
+  "souscategorie_pyramide": "3.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à l'achat de 2 pièces",
+   "30%"
+  ],
+  "prix_initial": 2.95,
+  "prix_final": 2.05
+ },
+ {
+  "produit": "Tout l'assortiment d'huile d'olive Manor Bio (p. ex. extra vierge, 1 L)",
+  "souscategorie_pyramide": "6.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Bio"
+  ],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 21.5,
+  "prix_final": 14.95
+ },
+ {
+  "produit": "Tout l'assortiment Ayam (p. ex. nouilles Ramen, 250 g)",
+  "souscategorie_pyramide": "3.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 7.25,
+  "prix_final": 5.05
+ },
+ {
+  "produit": "Tous les trio packs Röstis Hero (p. ex. 3 x 500 g)",
+  "souscategorie_pyramide": "3.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "25%"
+  ],
+  "prix_initial": 11.4,
+  "prix_final": 8.55
+ },
+ {
+  "produit": "Tout l'assortiment Starbucks (p. ex. Espresso Roast, 10 capsules)",
+  "souscategorie_pyramide": "1.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à l'achat de 2 pièces",
+   "30%"
+  ],
+  "prix_initial": 5.5,
+  "prix_final": 3.85
+ },
+ {
+  "produit": "Toute la gamme fruits secs et miel Nectaflor (p. ex. pignons de Sibérie, 100 g)",
+  "souscategorie_pyramide": "6.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à l'achat de 2 pièces",
+   "30%"
+  ],
+  "prix_initial": 7.5,
+  "prix_final": 5.25
+ },
+ {
+  "produit": "Rivella, Focus Water et jus Michel",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": null,
+  "prix_final": null
+ }
+]

@@ -1,0 +1,118 @@
+[
+ {
+  "produit": "Côte de bœuf, emballage d'env. 1 kg, prix par 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Portugal",
+  "labels": [],
+  "type_offre": [
+   "20%",
+   "Semaine Portugal"
+  ],
+  "prix_initial": 9.95,
+  "prix_final": 7.95
+ },
+ {
+  "produit": "T-bone de bœuf, emballage d'env. 1 kg, prix par 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Portugal",
+  "labels": [],
+  "type_offre": [
+   "20%",
+   "Semaine Portugal"
+  ],
+  "prix_initial": 9.95,
+  "prix_final": 7.95
+ },
+ {
+  "produit": "Jambon cru de porc noir, 80 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": "Portugal",
+  "labels": [],
+  "type_offre": [
+   "20%",
+   "Semaine Portugal"
+  ],
+  "prix_initial": 19.5,
+  "prix_final": 15.5
+ },
+ {
+  "produit": "Saucisse piquante de porc noir, 200 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": "Portugal",
+  "labels": [],
+  "type_offre": [
+   "22%",
+   "Semaine Portugal"
+  ],
+  "prix_initial": 10.9,
+  "prix_final": 8.5
+ },
+ {
+  "produit": "Chorizo piquant de porc noir, 200 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": "Portugal",
+  "labels": [],
+  "type_offre": [
+   "22%",
+   "Semaine Portugal"
+  ],
+  "prix_initial": 10.9,
+  "prix_final": 8.5
+ },
+ {
+  "produit": "Dorade rose, prix par 100 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": null,
+  "provenance": "Portugal",
+  "labels": [],
+  "type_offre": [
+   "20%",
+   "Semaine Portugal"
+  ],
+  "prix_initial": 5.95,
+  "prix_final": 4.75
+ },
+ {
+  "produit": "Pasteis de nata, 90 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Frais & fait maison"
+  ],
+  "type_offre": [],
+  "prix_initial": 3.5,
+  "prix_final": null
+ },
+ {
+  "produit": "Bâtonnet aux olives bio, 95 g",
+  "souscategorie_pyramide": "3.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Frais & fait maison",
+   "Bio"
+  ],
+  "type_offre": [],
+  "prix_initial": 1.8,
+  "prix_final": null
+ },
+ {
+  "produit": "Bica, prix par 100 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": "Portugal",
+  "labels": [],
+  "type_offre": [
+   "20%",
+   "Semaine Portugal"
+  ],
+  "prix_initial": 3.6,
+  "prix_final": 2.85
+ }
+]

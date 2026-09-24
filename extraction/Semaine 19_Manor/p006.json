@@ -1,0 +1,75 @@
+[
+ {
+  "produit": "Bière Appenzeller Quöllfrisch, 6 x 50 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "25%"
+  ],
+  "prix_initial": 10.95,
+  "prix_final": 8.2
+ },
+ {
+  "produit": "Toutes les sortes Chandon Spritz (p. ex. Berries & Hibiscus, 75 cl)",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": "Argentine",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 19.95,
+  "prix_final": 15.95
+ },
+ {
+  "produit": "Tout l'assortiment Arizona (p. ex. Green tea, 50 cl)",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à l'achat de 2 pièces",
+   "50%"
+  ],
+  "prix_initial": 3.9,
+  "prix_final": 1.95
+ },
+ {
+  "produit": "Toute la gamme de tablettes de chocolat Cailler, 3 x 100 g (p. ex. lait noisettes)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 10.5,
+  "prix_final": 8.4
+ },
+ {
+  "produit": "Tablettes de chocolat Swissdream, 6 x 100 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 15.95,
+  "prix_final": 12.75
+ },
+ {
+  "produit": "Toute la gamme napolitains assortis Lindt (p. ex. 1 kg)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 49.95,
+  "prix_final": 34.95
+ }
+]

@@ -1,0 +1,74 @@
+[
+ {
+  "produit": "Tout l'assortiment Caffè Latte Mr. Big 370 ml (p. ex. Espresso)",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 3.65,
+  "prix_final": 2.9
+ },
+ {
+  "produit": "Toutes les sortes de céréales Nestlé Duo Pack (p. ex. Nestlé Lion, 2 x 400 g)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 11.9,
+  "prix_final": 8.3
+ },
+ {
+  "produit": "Tout l'assortiment Chicco d'Oro Trio Pack (p. ex. café en grains, 3 x 500 g)",
+  "souscategorie_pyramide": "1.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "40%"
+  ],
+  "prix_initial": 35.85,
+  "prix_final": 21.5
+ },
+ {
+  "produit": "Toute la gamme tablettes de chocolat Excellence et Les Grandes Lindt Trio Pack (p. ex. Lait Noisettes, 3 x 150 g)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 17.85,
+  "prix_final": 14.25
+ },
+ {
+  "produit": "Snickers 9+1, 500 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "9+1 gratuit"
+  ],
+  "prix_initial": null,
+  "prix_final": 5.9
+ },
+ {
+  "produit": "Napolitains Mix Swissdream, 1 kg",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 36.95,
+  "prix_final": 29.55
+ }
+]

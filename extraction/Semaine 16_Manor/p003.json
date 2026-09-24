@@ -1,0 +1,110 @@
+[
+ {
+  "produit": "Jambon Manor Natura, prix par 100 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "32%"
+  ],
+  "prix_initial": 4.35,
+  "prix_final": 2.95
+ },
+ {
+  "produit": "Salami Citterino, prix par 100 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": "Italie",
+  "labels": [],
+  "type_offre": [
+   "21%"
+  ],
+  "prix_initial": 4.8,
+  "prix_final": 3.75
+ },
+ {
+  "produit": "Jambon cru du Val Piora, prix par 100 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 8.25,
+  "prix_final": 5.75
+ },
+ {
+  "produit": "Filets de lapin, emballage d'env. 200 g, prix par 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "France",
+  "labels": [],
+  "type_offre": [
+   "25%"
+  ],
+  "prix_initial": 6.2,
+  "prix_final": 4.65
+ },
+ {
+  "produit": "Demi lapin, coupé, emballage d'env. 800 g, prix par 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "France",
+  "labels": [],
+  "type_offre": [
+   "33%"
+  ],
+  "prix_initial": 2.85,
+  "prix_final": 1.9
+ },
+ {
+  "produit": "Aiguillettes de poulet duo pack, 2 x env. 300 g, prix par 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "26%"
+  ],
+  "prix_initial": 3.75,
+  "prix_final": 2.75
+ },
+ {
+  "produit": "Côtelette d'agneau, prix par 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Nouvelle-Zélande",
+  "labels": [],
+  "type_offre": [
+   "33%"
+  ],
+  "prix_initial": 5.95,
+  "prix_final": 3.95
+ },
+ {
+  "produit": "Tranche de veau, prix par 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "40%"
+  ],
+  "prix_initial": 9.75,
+  "prix_final": 5.85
+ },
+ {
+  "produit": "Viande hachée de bœuf, emballage de 700 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "33%"
+  ],
+  "prix_initial": 18.55,
+  "prix_final": 12.25
+ }
+]

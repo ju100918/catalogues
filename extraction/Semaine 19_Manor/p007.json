@@ -1,0 +1,65 @@
+[
+ {
+  "produit": "Tout l'assortiment Atelier Blini (p. ex. Houmous Extra, 175 g)",
+  "souscategorie_pyramide": "7.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à l'achat de 2 pièces",
+   "30%"
+  ],
+  "prix_initial": 4.95,
+  "prix_final": 3.45
+ },
+ {
+  "produit": "Tout l'assortiment de yogourts Montagna (p. ex. citron, 180 g)",
+  "souscategorie_pyramide": "4.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 1.2,
+  "prix_final": 0.95
+ },
+ {
+  "produit": "Emmi Caffè Latte (p. ex. Latte Macchiato, 230 ml)",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à l'achat de 2 produits",
+   "20%"
+  ],
+  "prix_initial": 4.5,
+  "prix_final": 3.6
+ },
+ {
+  "produit": "Tout l'assortiment pizza Dr. Oetker (p. ex. Prosciutto, 330 g)",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 6.5,
+  "prix_final": 5.2
+ },
+ {
+  "produit": "Produits Bonne Maman et Andros (confitures, madeleines, pâte à tartiner, compotes, jus d'orange)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à l'achat de 2 produits",
+   "30%"
+  ],
+  "prix_initial": null,
+  "prix_final": null
+ }
+]

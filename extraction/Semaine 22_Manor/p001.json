@@ -1,0 +1,41 @@
+[
+ {
+  "produit": "Entrecôte de bœuf, sélection Alma Viva, prix par 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Argentine ou Suisse",
+  "labels": [],
+  "type_offre": [
+   "33%",
+   "Super Hit"
+  ],
+  "prix_initial": 8.95,
+  "prix_final": 5.95
+ },
+ {
+  "produit": "Filet de baudroie, prix par 100 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": null,
+  "provenance": "Atlantique Nord-Est (zone de pêche)",
+  "labels": [],
+  "type_offre": [
+   "33%",
+   "Super Hit"
+  ],
+  "prix_initial": 8.95,
+  "prix_final": 5.95
+ },
+ {
+  "produit": "Melon charentais, prix par pièce",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "France",
+  "labels": [],
+  "type_offre": [
+   "30%",
+   "Super Hit"
+  ],
+  "prix_initial": 4.95,
+  "prix_final": 3.45
+ }
+]
