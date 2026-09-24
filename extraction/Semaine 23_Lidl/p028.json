@@ -1,1 +1,62 @@
-[]
+[
+ {
+  "produit": "Italiamo Pizza prosciutto mozzarella, surgelée, 400 g",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 3.49,
+  "prix_final": null
+ },
+ {
+  "produit": "Dr. Oetker Pizza Ristorante, diverses sortes, 355 g – 320 g",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 3.99,
+  "prix_final": null
+ },
+ {
+  "produit": "Italiamo Pain galette (Piada Sfogliata), 390 g",
+  "souscategorie_pyramide": "3.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 1.99,
+  "prix_final": null
+ },
+ {
+  "produit": "Italiamo Tomates cerises italiennes au jus de tomate, 250 g",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 1.29,
+  "prix_final": null
+ },
+ {
+  "produit": "Italiamo Sauces pour pâtes, diverses sortes, 350 g",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 1.49,
+  "prix_final": null
+ },
+ {
+  "produit": "Italiamo Provolone, dolce ou piccante, 300 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 3.89,
+  "prix_final": null
+ }
+]

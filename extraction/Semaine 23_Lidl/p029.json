@@ -11,5 +11,67 @@
   ],
   "prix_initial": 1.99,
   "prix_final": 1.49
+ },
+ {
+  "produit": "Italiamo Biscuits sablés au lait et au miel, 350 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 1.99,
+  "prix_final": null
+ },
+ {
+  "produit": "Italiamo Croissants fourrés à la crème, pistache ou tiramisu, 5 x 48 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 1.99,
+  "prix_final": null
+ },
+ {
+  "produit": "Italiamo Gâteau amaretto ou limoncello, surgelé, 700 g / 830 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 8.99,
+  "prix_final": null
+ },
+ {
+  "produit": "Gelatelli Lollies Praliné, diverses sortes, surgelés, 4 x 70 ml",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Rainforest Alliance"
+  ],
+  "type_offre": [],
+  "prix_initial": 2.99,
+  "prix_final": null
+ },
+ {
+  "produit": "Gelatelli Glace à l'italienne, diverses sortes, surgelée, 500 ml",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 3.95,
+  "prix_final": null
+ },
+ {
+  "produit": "Flaureo Prosecco Rosé Millesimato ou Grillo Spumante Brut, 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 6.99,
+  "prix_final": null
  }
 ]

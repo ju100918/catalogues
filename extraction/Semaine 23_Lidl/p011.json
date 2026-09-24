@@ -1,1 +1,32 @@
-[]
+[
+ {
+  "produit": "Deluxe Steak de contre-filet Irish Angus, 250 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Irlande",
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 14.99,
+  "prix_final": null
+ },
+ {
+  "produit": "Deluxe Steak de filet Irish Angus, 200 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Irlande",
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 18.99,
+  "prix_final": null
+ },
+ {
+  "produit": "Deluxe Steak de bœuf ribeye Irish Angus, 250 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Irlande",
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 18.99,
+  "prix_final": null
+ }
+]

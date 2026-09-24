@@ -1,1 +1,52 @@
-[]
+[
+ {
+  "produit": "Duc de Coeur Salami gourmet, diverses sortes, 250 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 5.49,
+  "prix_final": null
+ },
+ {
+  "produit": "Duc de Coeur Filet de canard de Barbarie, mariné ou mariné à la provençale, surgelé, 400 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 8.99,
+  "prix_final": null
+ },
+ {
+  "produit": "Duc de Coeur Coulommiers de Caractère, 350 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 3.49,
+  "prix_final": null
+ },
+ {
+  "produit": "Duc de Coeur Escargots farcis, surgelés, 67 g",
+  "souscategorie_pyramide": "5.6",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 2.99,
+  "prix_final": null
+ },
+ {
+  "produit": "Duc de Coeur Gratin de pommes de terre avec reblochon, surgelé, 360 g",
+  "souscategorie_pyramide": "3.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 3.99,
+  "prix_final": null
+ }
+]

@@ -1,7 +1,7 @@
 [
  {
   "produit": "Nestlé Bouillie au lait, banane-fraises ou banane-pommes, 450 g",
-  "souscategorie_pyramide": "3.5",
+  "souscategorie_pyramide": "8.1",
   "type_poisson": null,
   "provenance": null,
   "labels": [],
@@ -13,7 +13,7 @@
  },
  {
   "produit": "Nestlé Bouillie aux céréales, 8 céréales ou multi-céréales Pyjama, 160 g",
-  "souscategorie_pyramide": "3.5",
+  "souscategorie_pyramide": "8.1",
   "type_poisson": null,
   "provenance": null,
   "labels": [],
@@ -22,5 +22,47 @@
   ],
   "prix_initial": 3.49,
   "prix_final": 3.15
+ },
+ {
+  "produit": "Cailler Tablettes de chocolat, pack de 3, diverses sortes, 600 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 11.85,
+  "prix_final": null
+ },
+ {
+  "produit": "Cailler Tablette de chocolat XXL, diverses sortes, 2 kg",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 34.89,
+  "prix_final": null
+ },
+ {
+  "produit": "Cailler Mini branches au lait, 1 kg",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 21.95,
+  "prix_final": null
+ },
+ {
+  "produit": "Cailler Branches, diverses sortes, 690 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Rainforest Alliance"
+  ],
+  "type_offre": [],
+  "prix_initial": 16.95,
+  "prix_final": null
  }
 ]

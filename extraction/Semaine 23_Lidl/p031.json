@@ -48,5 +48,35 @@
   ],
   "prix_initial": 6.99,
   "prix_final": 4.99
+ },
+ {
+  "produit": "Aperol Bitter, 11% vol., 1 l",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 18.99,
+  "prix_final": null
+ },
+ {
+  "produit": "Aperol Spritz, 9% vol., 3 x 20 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 10.95,
+  "prix_final": null
+ },
+ {
+  "produit": "Ponte Giulio Orvieto Classico, 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": "Italie",
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 4.99,
+  "prix_final": null
  }
 ]

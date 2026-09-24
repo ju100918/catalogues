@@ -140,5 +140,15 @@
   ],
   "prix_initial": 0.49,
   "prix_final": 0.39
+ },
+ {
+  "produit": "Gordon's Gin sans alcool, 70 cl",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 18.45,
+  "prix_final": null
  }
 ]

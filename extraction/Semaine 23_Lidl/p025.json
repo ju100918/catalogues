@@ -1,1 +1,82 @@
-[]
+[
+ {
+  "produit": "Gelatelli Bâtonnets glacés double, diverses sortes, surgelés, 4 x 85 ml / 4 x 90 ml",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Rainforest Alliance"
+  ],
+  "type_offre": [],
+  "prix_initial": 3.69,
+  "prix_final": null
+ },
+ {
+  "produit": "Bon Gelati Bâtonnets glacés aux amandes, surgelés, 6 x 100 ml",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Rainforest Alliance"
+  ],
+  "type_offre": [],
+  "prix_initial": 2.99,
+  "prix_final": null
+ },
+ {
+  "produit": "Bon Gelati Mini Mix, surgelés, 12 x 50 ml",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Rainforest Alliance"
+  ],
+  "type_offre": [],
+  "prix_initial": 3.85,
+  "prix_final": null
+ },
+ {
+  "produit": "Bon Gelati Bâtonnets glacés crisp, vanille, blanc, surgelés, 6 x 120 ml",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Rainforest Alliance"
+  ],
+  "type_offre": [],
+  "prix_initial": 3.58,
+  "prix_final": null
+ },
+ {
+  "produit": "Bon Gelati Bâtonnets glacés vanille, chocolat blanc, amandes, surgelés, 6 x 100 ml",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Rainforest Alliance"
+  ],
+  "type_offre": [],
+  "prix_initial": 2.99,
+  "prix_final": null
+ },
+ {
+  "produit": "Gelatelli Bâtonnets glacés à la pistache, surgelés, 4 x 80 ml",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 3.69,
+  "prix_final": null
+ },
+ {
+  "produit": "Gelatelli Mini Mix fruits, surgelés, 12 x 50 ml",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 4.29,
+  "prix_final": null
+ }
+]

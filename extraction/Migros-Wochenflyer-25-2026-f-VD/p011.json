@@ -38,5 +38,15 @@
   ],
   "prix_initial": 2.15,
   "prix_final": 1.55
+ },
+ {
+  "produit": "BrokenTaco Diablo Crema, Sweet Taco Topping ou Green Sriracha, 200 g",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 3.4,
+  "prix_final": null
  }
 ]

@@ -24,5 +24,45 @@
   ],
   "prix_initial": 3.75,
   "prix_final": 2.99
+ },
+ {
+  "produit": "Italiamo Escargots pizza, diverses sortes, 270 g",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 3.49,
+  "prix_final": null
+ },
+ {
+  "produit": "Italiamo Garniture fraîche pour bruschetta, diverses sortes, 150 g",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 1.59,
+  "prix_final": null
+ },
+ {
+  "produit": "Italiamo Cantuccini à l'orange, 200 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 1.99,
+  "prix_final": null
+ },
+ {
+  "produit": "Italiamo Pain en tranches pour bruschetta, 500 g",
+  "souscategorie_pyramide": "3.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 2.49,
+  "prix_final": null
  }
 ]

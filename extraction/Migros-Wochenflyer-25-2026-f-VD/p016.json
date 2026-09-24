@@ -30,7 +30,7 @@
  },
  {
   "produit": "Pizzas au four à bois Anna's Best, réfrigérées, mini Prosciutto ou Prosciutto & mascarpone (p. ex. mini Prosciutto, 3 x 210 g)",
-  "souscategorie_pyramide": "3.5",
+  "souscategorie_pyramide": "7.5",
   "type_poisson": null,
   "provenance": null,
   "labels": [],
@@ -110,7 +110,7 @@
  },
  {
   "produit": "Pizzas La Trattoria, surgelées, mozzarella, prosciutto ou tonno (p. ex. mozzarella, 3 x 330 g)",
-  "souscategorie_pyramide": "3.5",
+  "souscategorie_pyramide": "7.5",
   "type_poisson": null,
   "provenance": null,
   "labels": [],
@@ -123,7 +123,7 @@
  },
  {
   "produit": "Tous les müeslis Farmer (p. ex. baies des bois Classic, 500 g)",
-  "souscategorie_pyramide": "3.5",
+  "souscategorie_pyramide": "7.1",
   "type_poisson": null,
   "provenance": null,
   "labels": [],
