@@ -35,7 +35,7 @@ Pour chaque produit ALIMENTAIRE, extrais les champs suivants :
      3.2 Riz
      3.3 Pâtes (nature)
      3.4 Pommes de terre
-     3.5 Autres (les pâtes farcies vont en 7.5)
+     3.5 Autres (les pâtes farcies vont en 7.5, les farines en 10.2)
      (ATTENTION : les légumineuses ne vont PAS en catégorie 3, voir 5.5)
      4.1 Fromage
      4.2 Yogourts aromatisés, séré aromatisé
@@ -44,7 +44,8 @@ Pour chaque produit ALIMENTAIRE, extrais les champs suivants :
      4.5 Autres
      5.1 Viande hors charcuterie
      5.2 Charcuterie
-     5.3 Poisson
+     5.3 Poisson (y compris conserves de poisson simples : thon, sardines,
+         hareng ; les pâtés et pâtes à tartiner de poisson vont en 7.2)
      5.4 Œufs
      5.5 Légumineuses (hors houmous, voir 7.2)
      5.6 Autres (ex. tofu et alternatives végétales riches en protéines ;
@@ -56,19 +57,24 @@ Pour chaque produit ALIMENTAIRE, extrais les champs suivants :
      6.5 Autres (ex. lait de coco, margarine, mayonnaise)
      7.1 Sucreries (y compris müesli, birchermüesli et granola)
      7.2 Snacks salés (y compris olives en sachet ou en conserve, houmous,
-         garnitures pour bruschetta, snacks feuilletés)
+         garnitures pour bruschetta, snacks feuilletés, pâtés et pâtes à
+         tartiner de poisson ou de viande, p. ex. pâté de saumon)
      7.3 Boissons sucrées (y compris boissons sucrées sans alcool,
          boissons protéinées et boissons lactées avec sucres ajoutés)
      7.4 Boissons alcoolisées (ATTENTION : Migros ne vend pas d'alcool ;
          tout produit Migros qui ressemble à une boisson alcoolisée est
          sans alcool et va en 7.3)
-     7.5 Plats préparés, pizzas, pâtes farcies, préparations panées à base
-         de viande ou de poisson (ex. nuggets, escalopes panées, bâtonnets
-         de poisson)
-     7.6 Sauces à salade, sauces pour pâtes qui ne sont pas 100% tomate,
-         condiments (ex. arôme Maggi)
+     7.5 Plats préparés, pizzas, pâtes farcies, pâtes à tarte toutes
+         prêtes, préparations panées à base de viande ou de poisson (ex.
+         nuggets, escalopes panées, bâtonnets de poisson)
      8.1 Produits pour bébé (ex. bouillies pour bébé, desserts pour bébé,
          lait en poudre pour bébé)
+     9.1 Compléments alimentaires (ex. whey protéinée en poudre)
+     10.1 Sauces et condiments (ex. sauces à salade, sauces pour pâtes qui
+          ne sont pas 100% tomate, arôme Maggi, sel, épices, vinaigre,
+          ajvar)
+     10.2 Ingrédients bruts (ex. levure, poudre à lever, bicarbonate,
+          farine fleur, farine pour tresse, farine à pizza)
   NE DÉTERMINE PAS de catégorie principale séparément : elle sera
   calculée automatiquement à partir de ce code (voir ÉTAPE 3).
   Concentre-toi uniquement sur le choix de la sous-catégorie la plus
@@ -114,7 +120,7 @@ RÈGLES IMPORTANTES :
 ÉTAPE 3 — Dérivation de la catégorie principale
 Pour chaque ligne extraite, calcule categorie_pyramide en extrayant
 automatiquement le chiffre avant le point de souscategorie_pyramide
-(ex : "5.5" → 5, "1.2" → 1, "8.1" → 8). Ne redemande jamais ce choix au
+(ex : "5.5" → 5, "1.2" → 1, "10.2" → 10). Ne redemande jamais ce choix au
 modèle : c'est un calcul, pas une nouvelle classification.
 
 Dans l'Excel, affiche la catégorie et la sous-catégorie avec les
@@ -129,6 +135,8 @@ Catégorie :
   6. Huiles, matière grasse, graines et oléagineux
   7. Boissons sucrées, sucreries, snacks salés, plats préparés et condiments
   8. Produits pour bébé
+  9. Compléments alimentaires
+  10. Condiments et ingrédients
 
 Sous-catégorie :
   1.1 Eau nature
@@ -163,8 +171,10 @@ Sous-catégorie :
   7.3 Boissons sucrées
   7.4 Boissons alcoolisées
   7.5 Plats préparés, pizzas, pâtes farcies, préparations panées
-  7.6 Sauces et condiments
   8.1 Produits pour bébé
+  9.1 Compléments alimentaires
+  10.1 Sauces et condiments
+  10.2 Ingrédients bruts
 
 ÉTAPE 4 — Calcul du rabais
 Pour chaque ligne où prix_initial ET prix_final sont connus, calcule :

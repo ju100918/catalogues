@@ -18,6 +18,8 @@ CATEGORIES = {
     6: "6. Huiles, matière grasse, graines et oléagineux",
     7: "7. Boissons sucrées, sucreries, snacks salés, plats préparés et condiments",
     8: "8. Produits pour bébé",
+    9: "9. Compléments alimentaires",
+    10: "10. Condiments et ingrédients",
 }
 SOUSCATS = {
     "1.1": "Eau nature", "1.2": "Eau aromatisée", "1.3": "Jus de fruits 100% fruits",
@@ -30,7 +32,8 @@ SOUSCATS = {
     "6.4": "Noix et graines", "6.5": "Autres", "7.1": "Sucreries", "7.2": "Snacks salés",
     "7.3": "Boissons sucrées", "7.4": "Boissons alcoolisées",
     "7.5": "Plats préparés, pizzas, pâtes farcies, préparations panées",
-    "7.6": "Sauces et condiments", "8.1": "Produits pour bébé",
+    "8.1": "Produits pour bébé", "9.1": "Compléments alimentaires",
+    "10.1": "Sauces et condiments", "10.2": "Ingrédients bruts",
 }
 COLS = ["fichier_source", "page", "produit", "categorie_pyramide", "souscategorie_pyramide",
         "provenance", "type_poisson", "label_1", "label_2", "label_3", "type_offre_1",
