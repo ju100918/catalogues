@@ -1,0 +1,28 @@
+[
+ {
+  "produit": "Allini Secco, Rosato ou Bianco, 20 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-25%"
+  ],
+  "prix_initial": 1.59,
+  "prix_final": 1.19
+ },
+ {
+  "produit": "Allini Prosecco DOC, 37,5 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": "Italie – Vénétie",
+  "labels": [
+   "DOC"
+  ],
+  "type_offre": [
+   "-20%"
+  ],
+  "prix_initial": 3.75,
+  "prix_final": 2.99
+ }
+]

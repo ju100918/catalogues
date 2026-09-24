@@ -1,0 +1,26 @@
+[
+ {
+  "produit": "Nescafé Dolce Gusto Capsules de café, diverses sortes, 30 pièces",
+  "souscategorie_pyramide": "1.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-33%"
+  ],
+  "prix_initial": 11.89,
+  "prix_final": 7.95
+ },
+ {
+  "produit": "Maggi Arôme liquide, 250 g",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-20%"
+  ],
+  "prix_initial": 2.89,
+  "prix_final": 2.29
+ }
+]

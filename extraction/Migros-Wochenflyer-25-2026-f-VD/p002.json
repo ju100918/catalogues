@@ -1,0 +1,117 @@
+[
+ {
+  "produit": "Cerises Migros Bio, la barquette de 500 g",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Suisse/Italie/Espagne",
+  "labels": [
+   "Migros Bio"
+  ],
+  "type_offre": [
+   "33%"
+  ],
+  "prix_initial": 8.95,
+  "prix_final": 5.95
+ },
+ {
+  "produit": "Tomates cerises en grappe, la barquette de 500 g",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "15%"
+  ],
+  "prix_initial": 4.5,
+  "prix_final": 3.8
+ },
+ {
+  "produit": "Concombres, la pièce",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": "Suisse/Pays-Bas",
+  "labels": [],
+  "type_offre": [
+   "à partir de 2 articles",
+   "15%"
+  ],
+  "prix_initial": 1.5,
+  "prix_final": 1.28
+ },
+ {
+  "produit": "Pêches jaunes, le kg",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Espagne/Italie/France",
+  "labels": [],
+  "type_offre": [
+   "25%"
+  ],
+  "prix_initial": 3.95,
+  "prix_final": 2.95
+ },
+ {
+  "produit": "Poivrons assortis, le sachet de 500 g",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": "Espagne/Pays-Bas",
+  "labels": [],
+  "type_offre": [
+   "25%"
+  ],
+  "prix_initial": 2.2,
+  "prix_final": 1.65
+ },
+ {
+  "produit": "Portobello Migros Bio, la barquette de 110 g",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": "Pays-Bas",
+  "labels": [
+   "Migros Bio"
+  ],
+  "type_offre": [
+   "22%"
+  ],
+  "prix_initial": 2.5,
+  "prix_final": 1.95
+ },
+ {
+  "produit": "Melon Brodé, la pièce",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Italie",
+  "labels": [],
+  "type_offre": [
+   "Action"
+  ],
+  "prix_initial": 2.35,
+  "prix_final": 1.9
+ },
+ {
+  "produit": "Tomates Rose de Berne, le kg",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 6.9,
+  "prix_final": 5.5
+ },
+ {
+  "produit": "Salade feuille de chêne verte «De la région.», la pièce",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "De la région."
+  ],
+  "type_offre": [
+   "23%"
+  ],
+  "prix_initial": 1.9,
+  "prix_final": 1.45
+ }
+]

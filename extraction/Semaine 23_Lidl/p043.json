@@ -1,0 +1,28 @@
+[
+ {
+  "produit": "Evian Eau minérale plate, 6 x 1,5 l",
+  "souscategorie_pyramide": "1.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-50% en pack de 6"
+  ],
+  "prix_initial": 6.59,
+  "prix_final": 3.29
+ },
+ {
+  "produit": "Côtes du Rhône AOP 2021, 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": "France – Rhône",
+  "labels": [
+   "AOP"
+  ],
+  "type_offre": [
+   "-24%"
+  ],
+  "prix_initial": 3.29,
+  "prix_final": 2.49
+ }
+]

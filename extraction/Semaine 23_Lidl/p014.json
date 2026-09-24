@@ -1,0 +1,116 @@
+[
+ {
+  "produit": "Qualité Suisse Poitrine de dinde en tranches, barbecue ou paprika, 120 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Suisse Garantie",
+   "Qualité Suisse"
+  ],
+  "type_offre": [
+   "-20%",
+   "Avec Lidl Plus"
+  ],
+  "prix_initial": 4.49,
+  "prix_final": 3.59
+ },
+ {
+  "produit": "Ocean Sea Pointes de saumon, sans peau, surgelées, 455 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "ASC"
+  ],
+  "type_offre": [
+   "-20%",
+   "Avec Lidl Plus"
+  ],
+  "prix_initial": 9.99,
+  "prix_final": 7.99
+ },
+ {
+  "produit": "Qualité Suisse Saucisson vaudois, 100 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Suisse Garantie",
+   "Qualité Suisse"
+  ],
+  "type_offre": [
+   "Action"
+  ],
+  "prix_initial": null,
+  "prix_final": 1.99
+ },
+ {
+  "produit": "Qualité Suisse Chorizo, doux ou piquant, 150 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Suisse Garantie",
+   "Qualité Suisse"
+  ],
+  "type_offre": [
+   "-26%"
+  ],
+  "prix_initial": 2.69,
+  "prix_final": 1.99
+ },
+ {
+  "produit": "Qualité Suisse Viande des Grisons, classique, tranches ultra fines, 80 g / 90 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Suisse Garantie",
+   "Qualité Suisse"
+  ],
+  "type_offre": [
+   "-20%"
+  ],
+  "prix_initial": 6.89,
+  "prix_final": 5.45
+ },
+ {
+  "produit": "Dulano Selection Fuet Extra, 170 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-20%"
+  ],
+  "prix_initial": 4.99,
+  "prix_final": 3.99
+ },
+ {
+  "produit": "Tartare L'Apéritif, Provence ou Italie, 100 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Action"
+  ],
+  "prix_initial": null,
+  "prix_final": 2.49
+ },
+ {
+  "produit": "Vita D'or Margarine végétale, 500 g",
+  "souscategorie_pyramide": "6.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Vegan"
+  ],
+  "type_offre": [
+   "-22%"
+  ],
+  "prix_initial": 2.19,
+  "prix_final": 1.69
+ }
+]

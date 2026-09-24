@@ -1,0 +1,93 @@
+[
+ {
+  "produit": "Feuilleté carbonara, 119 g",
+  "souscategorie_pyramide": "7.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Action"
+  ],
+  "prix_initial": null,
+  "prix_final": 1.49
+ },
+ {
+  "produit": "Croissant jambon-fromage, 3 x 95 g",
+  "souscategorie_pyramide": "7.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "2+1 gratuit"
+  ],
+  "prix_initial": 4.47,
+  "prix_final": 2.98
+ },
+ {
+  "produit": "Chausson à la cannelle, 113 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Action"
+  ],
+  "prix_initial": null,
+  "prix_final": 0.99
+ },
+ {
+  "produit": "Croissant fourré au praliné noisette, 85 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-28%"
+  ],
+  "prix_initial": 1.39,
+  "prix_final": 0.99
+ },
+ {
+  "produit": "Qualité Suisse Couronne de Sils, 360 g",
+  "souscategorie_pyramide": "3.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Qualité Suisse"
+  ],
+  "type_offre": [
+   "-30%",
+   "Avec Lidl Plus"
+  ],
+  "prix_initial": 2.79,
+  "prix_final": 1.95
+ },
+ {
+  "produit": "Fisher's Choice Filets de silure requin croustillants ASC XXL, 500 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": null,
+  "provenance": "Vietnam",
+  "labels": [
+   "ASC"
+  ],
+  "type_offre": [
+   "Action"
+  ],
+  "prix_initial": null,
+  "prix_final": 6.95
+ },
+ {
+  "produit": "Fisher's Choice Filets de saumon bio, avec peau, 3 x 125 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": null,
+  "provenance": "Norvège",
+  "labels": [
+   "Bio"
+  ],
+  "type_offre": [
+   "-41%"
+  ],
+  "prix_initial": 16.99,
+  "prix_final": 9.99
+ }
+]

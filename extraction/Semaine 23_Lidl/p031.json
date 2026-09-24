@@ -1,0 +1,52 @@
+[
+ {
+  "produit": "Fantini Farnese Edizione Cinque Autoctoni, 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": "Italie",
+  "labels": [],
+  "type_offre": [
+   "-40%"
+  ],
+  "prix_initial": 27.95,
+  "prix_final": 16.65
+ },
+ {
+  "produit": "Allini Moscato Spumante Dolce, 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": "Italie",
+  "labels": [],
+  "type_offre": [
+   "-25%"
+  ],
+  "prix_initial": 3.95,
+  "prix_final": 2.95
+ },
+ {
+  "produit": "Più Secco, 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": "Italie",
+  "labels": [],
+  "type_offre": [
+   "-20%"
+  ],
+  "prix_initial": 2.75,
+  "prix_final": 2.19
+ },
+ {
+  "produit": "Maestro de Pigo Primitivo di Manduria DOC, 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": "Italie – Pouilles",
+  "labels": [
+   "DOC"
+  ],
+  "type_offre": [
+   "-28%"
+  ],
+  "prix_initial": 6.99,
+  "prix_final": 4.99
+ }
+]

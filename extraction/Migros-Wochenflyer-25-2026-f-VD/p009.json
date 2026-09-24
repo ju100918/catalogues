@@ -1,0 +1,162 @@
+[
+ {
+  "produit": "Yogourts Pur Emmi, framboise ou fraise, 4 x 150 g",
+  "souscategorie_pyramide": "4.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "lot de 4",
+   "25%"
+  ],
+  "prix_initial": 4.4,
+  "prix_final": 3.3
+ },
+ {
+  "produit": "Yogourt nature Yogos, 4 x 180 g",
+  "souscategorie_pyramide": "4.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "lot de 4",
+   "20%"
+  ],
+  "prix_initial": 4.2,
+  "prix_final": 3.35
+ },
+ {
+  "produit": "Plateau apéro «De la région.», 180 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "De la région."
+  ],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 9.9,
+  "prix_final": 7.9
+ },
+ {
+  "produit": "Yogourts et boissons au kéfir Emmi (p. ex. yogourt à la fraise, 150 g)",
+  "souscategorie_pyramide": "4.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 1.1,
+  "prix_final": 0.88
+ },
+ {
+  "produit": "Milk Drink good day Emmi, sans lactose, 1 litre",
+  "souscategorie_pyramide": "4.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "aha!"
+  ],
+  "type_offre": [
+   "à partir de 2 articles",
+   "20%"
+  ],
+  "prix_initial": 2.4,
+  "prix_final": 1.92
+ },
+ {
+  "produit": "Yogi Drink Emmi, framboise ou mocca, 3 x 200 ml",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "lot de 3",
+   "20%"
+  ],
+  "prix_initial": 4.05,
+  "prix_final": 3.2
+ },
+ {
+  "produit": "Benecol Emmi, myrtille, fraise ou framboise sans sucre cristallisé (p. ex. myrtille, 12 x 65 ml)",
+  "souscategorie_pyramide": "4.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "pack de 12",
+   "20%"
+  ],
+  "prix_initial": 11.5,
+  "prix_final": 9.2
+ },
+ {
+  "produit": "Yogourts à boire Aktifit Emmi, fraise, pêche ou Globi, 12 x 65 ml",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "pack de 12",
+   "20%"
+  ],
+  "prix_initial": 9.5,
+  "prix_final": 7.6
+ },
+ {
+  "produit": "Birchermuesli Anna's Best, 185 g",
+  "souscategorie_pyramide": "3.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Nouveau",
+   "20x Cumulus"
+  ],
+  "prix_initial": null,
+  "prix_final": 2.95
+ },
+ {
+  "produit": "Caffè Latte Emmi, macchiato, balance ou double zero (p. ex. macchiato, 3 x 230 ml)",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "lot de 3",
+   "20%"
+  ],
+  "prix_initial": 6.45,
+  "prix_final": 5.15
+ },
+ {
+  "produit": "Tous les repas à boire I'm your meal et Energy Milk, Emmi (p. ex. I'm your meal, goût chocolat, 500 ml)",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2 articles",
+   "20%"
+  ],
+  "prix_initial": 4.95,
+  "prix_final": 3.96
+ },
+ {
+  "produit": "Birchermuesli Migros Bio, 185 g",
+  "souscategorie_pyramide": "3.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Migros Bio"
+  ],
+  "type_offre": [
+   "Nouveau",
+   "20x Cumulus"
+  ],
+  "prix_initial": null,
+  "prix_final": 3.2
+ }
+]

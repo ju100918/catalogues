@@ -1,0 +1,26 @@
+[
+ {
+  "produit": "Nestlé Bouillie au lait, banane-fraises ou banane-pommes, 450 g",
+  "souscategorie_pyramide": "3.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-24%"
+  ],
+  "prix_initial": 8.89,
+  "prix_final": 6.75
+ },
+ {
+  "produit": "Nestlé Bouillie aux céréales, 8 céréales ou multi-céréales Pyjama, 160 g",
+  "souscategorie_pyramide": "3.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-9%"
+  ],
+  "prix_initial": 3.49,
+  "prix_final": 3.15
+ }
+]

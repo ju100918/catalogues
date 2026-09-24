@@ -1,8 +1,0 @@
-[
-{"produit":"Mini-pastèques Migros Bio, la pièce","categorie_pyramide":"2. Fruits et légumes","provenance":"Espagne","labels":["Migros Bio"],"type_offre":"33% de réduction","prix_initial":5.95,"prix_final":3.95},
-{"produit":"Émincé de poulet Optigal, 2 x 350 g","categorie_pyramide":"5. Viande, poisson, œufs, tofu et alternatives","provenance":"Suisse","labels":[],"type_offre":"lot de 2, 40% de réduction","prix_initial":23.45,"prix_final":13.95},
-{"produit":"Hamburgers de bœuf Migros, 4 pièces, 500 g","categorie_pyramide":"5. Viande, poisson, œufs, tofu et alternatives","provenance":"Suisse","labels":[],"type_offre":"41% de réduction","prix_initial":13.50,"prix_final":7.95},
-{"produit":"Tous les fruits à coque Party, y compris les mélanges (p. ex. pistaches grillées et salées, 500 g)","categorie_pyramide":"6. Huiles, matières grasses, noix et graines","provenance":null,"labels":[],"type_offre":"40% à partir de 2 articles","prix_initial":7.20,"prix_final":4.32},
-{"produit":"Tout l'assortiment de barres de céréales et d'en-cas, Farmer (p. ex. barres de céréales à la pomme Soft Choc, 288 g)","categorie_pyramide":"7. Sucreries, snacks salés, boissons sucrées/alcoolisées","provenance":null,"labels":["Rainforest Alliance"],"type_offre":"33% à partir de 3 articles","prix_initial":4.60,"prix_final":3.08},
-{"produit":"Tout l'assortiment de films et de sachets Kitchen & Co. (p. ex. papier d'aluminium n°42)","categorie_pyramide":"8. Non alimentaire","provenance":null,"labels":[],"type_offre":null,"prix_initial":null,"prix_final":null}
-]
