@@ -9,11 +9,31 @@ from openpyxl.styles import Alignment, Font, PatternFill
 from openpyxl.utils import get_column_letter
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
-SOUSCATS = {"1.1", "1.2", "1.3", "1.4", "2.1", "2.2", "3.1", "3.2", "3.3", "3.4", "3.5",
-            "4.1", "4.2", "4.3", "4.4", "4.5", "5.1", "5.2", "5.3", "5.4", "5.5", "5.6",
-            "6.1", "6.2", "6.3", "6.4", "6.5", "7.1", "7.2", "7.3", "7.4", "7.5", "7.6", "8.1"}
+CATEGORIES = {
+    1: "1. Boissons",
+    2: "2. Fruits et légumes",
+    3: "3. Produits céréaliers et pommes de terre",
+    4: "4. Produits laitiers",
+    5: "5. Légumineuses, œufs, viande et autres",
+    6: "6. Huiles, matière grasse, graines et oléagineux",
+    7: "7. Boissons sucrées, sucreries, snacks salés, plats préparés et condiments",
+    8: "8. Produits pour bébé",
+}
+SOUSCATS = {
+    "1.1": "Eau nature", "1.2": "Eau aromatisée", "1.3": "Jus de fruits 100% fruits",
+    "1.4": "Autres", "2.1": "Fruits", "2.2": "Légumes", "3.1": "Pains", "3.2": "Riz",
+    "3.3": "Pâtes", "3.4": "Pommes de terre", "3.5": "Autres", "4.1": "Fromage",
+    "4.2": "Yogourts et séré aromatisés", "4.3": "Yogourts et séré nature",
+    "4.4": "Boissons lactées sans sucre ajoutés", "4.5": "Autres",
+    "5.1": "Viande hors charcuterie", "5.2": "Charcuterie", "5.3": "Poisson", "5.4": "Œufs",
+    "5.5": "Légumineuses", "5.6": "Autres", "6.1": "Beurre", "6.2": "Huile", "6.3": "Crème",
+    "6.4": "Noix et graines", "6.5": "Autres", "7.1": "Sucreries", "7.2": "Snacks salés",
+    "7.3": "Boissons sucrées", "7.4": "Boissons alcoolisées",
+    "7.5": "Plats préparés, pizzas, pâtes farcies, préparations panées",
+    "7.6": "Sauces et condiments", "8.1": "Produits pour bébé",
+}
 COLS = ["fichier_source", "page", "produit", "categorie_pyramide", "souscategorie_pyramide",
-        "type_poisson", "provenance", "label_1", "label_2", "label_3", "type_offre_1",
+        "provenance", "type_poisson", "label_1", "label_2", "label_3", "type_offre_1",
         "type_offre_2", "type_offre_3", "prix_initial", "prix_final", "rabais_montant",
         "rabais_pourcentage"]
 
@@ -36,8 +56,8 @@ for folder in sorted(glob.glob(os.path.join(ROOT, "extraction", "*", ""))):
             assert r["type_poisson"] is None or code == "5.3", (path, r["produit"])
             pi, pf = r["prix_initial"], r["prix_final"]
             row = {"fichier_source": source, "page": page, "produit": r["produit"],
-                   "categorie_pyramide": int(code.split(".")[0]),
-                   "souscategorie_pyramide": code, "type_poisson": r["type_poisson"],
+                   "categorie_pyramide": CATEGORIES[int(code.split(".")[0])],
+                   "souscategorie_pyramide": f"{code} {SOUSCATS[code]}", "type_poisson": r["type_poisson"],
                    "provenance": r["provenance"], "prix_initial": pi, "prix_final": pf,
                    "rabais_montant": round(pi - pf, 2) if pi is not None and pf is not None else None,
                    "rabais_pourcentage": round((pi - pf) / pi * 100, 1) if pi is not None and pf is not None else None}
@@ -57,7 +77,7 @@ for c in ws[1]:
     c.font = Font(bold=True, color="FFFFFF")
     c.fill = PatternFill("solid", fgColor="E65C00")
     c.alignment = Alignment(wrap_text=True, vertical="center")
-for i, w in enumerate([36, 6, 70, 10, 12, 11, 26, 20, 20, 16, 24, 26, 26, 12, 12, 12, 12], 1):
+for i, w in enumerate([36, 6, 70, 40, 34, 26, 11, 20, 20, 16, 24, 26, 26, 12, 12, 12, 12], 1):
     ws.column_dimensions[get_column_letter(i)].width = w
 for row in ws.iter_rows(min_row=2):
     for c in row[13:16]:
