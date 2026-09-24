@@ -1,0 +1,76 @@
+[
+ {
+  "produit": "Sel enrichi en iode et fluor JuraSel, 1 kg",
+  "souscategorie_pyramide": "10.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Swiss Made"
+  ],
+  "type_offre": [],
+  "prix_initial": 1.05,
+  "prix_final": null
+ },
+ {
+  "produit": "Noix de muscade, 50 g",
+  "souscategorie_pyramide": "10.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 1.69,
+  "prix_final": null
+ },
+ {
+  "produit": "Gousses de vanille, 2 pièces",
+  "souscategorie_pyramide": "10.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 2.99,
+  "prix_final": null
+ },
+ {
+  "produit": "Sucre glace Diadem, 250 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 0.75,
+  "prix_final": null
+ },
+ {
+  "produit": "Sucre vanilliné Back Family, 15 x 8 g, le pack de 15",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 0.68,
+  "prix_final": null
+ },
+ {
+  "produit": "Demi-crème sans lactose Milsani, 250 ml",
+  "souscategorie_pyramide": "6.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 2.45,
+  "prix_final": null
+ },
+ {
+  "produit": "Œufs suisses d'élevage en plein air, 10 pièces",
+  "souscategorie_pyramide": "5.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Suisse Garantie"
+  ],
+  "type_offre": [],
+  "prix_initial": 5.29,
+  "prix_final": null
+ }
+]

@@ -1,0 +1,103 @@
+[
+ {
+  "produit": "Abricots Extra, le kg",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Espagne/Italie/France",
+  "labels": [],
+  "type_offre": [
+   "33%"
+  ],
+  "prix_initial": 7.2,
+  "prix_final": 4.8
+ },
+ {
+  "produit": "Kiwis dorés Extra, la pièce",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Nouvelle-Zélande",
+  "labels": [],
+  "type_offre": [
+   "à partir de 2 articles",
+   "30%"
+  ],
+  "prix_initial": 1.4,
+  "prix_final": 0.98
+ },
+ {
+  "produit": "Myrtilles Migros Bio, la barquette de 500 g",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Espagne/Italie",
+  "labels": [
+   "Migros Bio"
+  ],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 9.9,
+  "prix_final": 6.9
+ },
+ {
+  "produit": "Cerises, la barquette de 500 g",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Suisse, Italie, Espagne",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 5.95,
+  "prix_final": 4.75
+ },
+ {
+  "produit": "Melons charentais Migros Bio, la pièce",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Espagne/Italie/France",
+  "labels": [
+   "Migros Bio"
+  ],
+  "type_offre": [
+   "28%"
+  ],
+  "prix_initial": 5.5,
+  "prix_final": 3.95
+ },
+ {
+  "produit": "Avocats Extra, la pièce",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Pérou",
+  "labels": [],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 2.8,
+  "prix_final": 1.95
+ },
+ {
+  "produit": "Ananas en cubes, 550 g",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Hit"
+  ],
+  "prix_initial": null,
+  "prix_final": 5.1
+ },
+ {
+  "produit": "Pêches plates, le kg",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Espagne/Italie",
+  "labels": [],
+  "type_offre": [
+   "Prix bas"
+  ],
+  "prix_initial": null,
+  "prix_final": 4.0
+ }
+]

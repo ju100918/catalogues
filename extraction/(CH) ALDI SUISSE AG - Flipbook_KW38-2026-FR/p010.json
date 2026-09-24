@@ -1,0 +1,30 @@
+[
+ {
+  "produit": "Viande hachée mélangée, 2 x 500 g, le pack de 2",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse/Autriche",
+  "labels": [],
+  "type_offre": [
+   "Action",
+   "Superdeal"
+  ],
+  "prix_initial": null,
+  "prix_final": 11.49
+ },
+ {
+  "produit": "Jarret de veau, env. 400 g, les 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Suisse Garantie"
+  ],
+  "type_offre": [
+   "Action",
+   "Superdeal"
+  ],
+  "prix_initial": null,
+  "prix_final": 2.49
+ }
+]

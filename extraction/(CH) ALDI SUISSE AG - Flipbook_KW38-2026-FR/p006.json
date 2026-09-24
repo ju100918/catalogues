@@ -1,0 +1,84 @@
+[
+ {
+  "produit": "Alternative au yogourt bio My Vay, noix de coco, amande ou avoine, 400 g",
+  "souscategorie_pyramide": "4.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Bio",
+   "V-Label vegan"
+  ],
+  "type_offre": [
+   "Baisse de prix"
+  ],
+  "prix_initial": null,
+  "prix_final": 2.49
+ },
+ {
+  "produit": "Bicarbonate de soude Back Family, 500 g",
+  "souscategorie_pyramide": "10.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-11%",
+   "Baisse de prix"
+  ],
+  "prix_initial": 1.69,
+  "prix_final": 1.49
+ },
+ {
+  "produit": "Lait pasteurisé 2,5% Nature Suisse, 1 litre",
+  "souscategorie_pyramide": "4.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Baisse de prix"
+  ],
+  "prix_initial": null,
+  "prix_final": 1.35
+ },
+ {
+  "produit": "Séré maigre bio, 250 g",
+  "souscategorie_pyramide": "4.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Bio"
+  ],
+  "type_offre": [
+   "-5%",
+   "Baisse de prix"
+  ],
+  "prix_initial": 1.05,
+  "prix_final": 0.99
+ },
+ {
+  "produit": "Crème en bombe Milfina, demi-crème UHT 30% de matières grasses, 250 g",
+  "souscategorie_pyramide": "6.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Baisse de prix"
+  ],
+  "prix_initial": null,
+  "prix_final": 4.29
+ },
+ {
+  "produit": "Levure de boulanger déshydratée Back Family, 6 x 7 g",
+  "souscategorie_pyramide": "10.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "V-Label vegan"
+  ],
+  "type_offre": [
+   "-11%",
+   "Baisse de prix"
+  ],
+  "prix_initial": 0.85,
+  "prix_final": 0.75
+ }
+]

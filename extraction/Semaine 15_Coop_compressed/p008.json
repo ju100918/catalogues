@@ -1,0 +1,157 @@
+[
+ {
+  "produit": "Escalopes Mozzarella-Pesto Betty Bossi Plant Kitchen, 2 x 240 g, duo",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 11.9,
+  "prix_final": 9.5
+ },
+ {
+  "produit": "Springrolls Karma, 860 g",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "35%"
+  ],
+  "prix_initial": 16.95,
+  "prix_final": 10.95
+ },
+ {
+  "produit": "Tortellonis Ricotta e spinaci Betty Bossi, 4 x 250 g, quattro",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "44%"
+  ],
+  "prix_initial": 15.8,
+  "prix_final": 8.8
+ },
+ {
+  "produit": "Spätzlis aux légumes bio Naturaplan, 3 x 300 g, trio",
+  "souscategorie_pyramide": "3.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Naturaplan",
+   "Bio"
+  ],
+  "type_offre": [
+   "3.- de moins"
+  ],
+  "prix_initial": 11.85,
+  "prix_final": 8.85
+ },
+ {
+  "produit": "Lasagne bolognese au bœuf Coop, 3 x 400 g, trio",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "33%"
+  ],
+  "prix_initial": 11.85,
+  "prix_final": 7.9
+ },
+ {
+  "produit": "Pizzas Prosciutto Betty Bossi, 3 x 400 g, trio",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "31%"
+  ],
+  "prix_initial": 18.9,
+  "prix_final": 12.95
+ },
+ {
+  "produit": "Tous les produits surgelés Buitoni (p. ex. pizza Forno di Pietra Diavola, 350 g)",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2",
+   "33%"
+  ],
+  "prix_initial": 5.5,
+  "prix_final": 3.65
+ },
+ {
+  "produit": "Nuggets de poulet en beignets Coop, surgelés, 1,5 kg",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": "Brésil",
+  "labels": [],
+  "type_offre": [
+   "41%"
+  ],
+  "prix_initial": 27.35,
+  "prix_final": 15.95
+ },
+ {
+  "produit": "Délices Fromage, Champignons de Paris, Épinards ou Indian Findus, surgelés, 2 x 480 g, duo",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "22%"
+  ],
+  "prix_initial": 15.5,
+  "prix_final": 11.95
+ },
+ {
+  "produit": "Tous les légumes surgelés bio Naturaplan (p. ex. petits pois bio, 500 g)",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Naturaplan",
+   "Bio Suisse"
+  ],
+  "type_offre": [
+   "à partir de 2",
+   "20%"
+  ],
+  "prix_initial": 3.0,
+  "prix_final": 2.4
+ },
+ {
+  "produit": "Cornets Fraise/Vanille ou Café/Vanille Coop, Fairtrade Max Havelaar, 16 x 125 ml",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Fairtrade Max Havelaar"
+  ],
+  "type_offre": [
+   "39%"
+  ],
+  "prix_initial": 16.5,
+  "prix_final": 9.95
+ },
+ {
+  "produit": "Bâtonnets glacés Pralinato Classico Frisco, 8 x 85 ml",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "24%",
+   "+2 gratuits"
+  ],
+  "prix_initial": 13.2,
+  "prix_final": 9.95
+ }
+]

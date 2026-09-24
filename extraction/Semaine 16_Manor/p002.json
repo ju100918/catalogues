@@ -1,0 +1,118 @@
+[
+ {
+  "produit": "Fraises Gariguette, 250 g",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "France",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 7.95,
+  "prix_final": 6.35
+ },
+ {
+  "produit": "Myrtilles Premium, 150 g",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Espagne",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 3.95,
+  "prix_final": 3.15
+ },
+ {
+  "produit": "Cœur d'artichaut, barquette de 4 pièces",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": "Italie",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 4.95,
+  "prix_final": 3.95
+ },
+ {
+  "produit": "Crevettes tail-on cuites, décongelées, issues de la pêche durable, FOS, prix par 100 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": null,
+  "provenance": "Océan Indien-Est (zone de pêche)",
+  "labels": [
+   "Friend of the Sea"
+  ],
+  "type_offre": [
+   "33%"
+  ],
+  "prix_initial": 5.95,
+  "prix_final": 3.95
+ },
+ {
+  "produit": "Poulpe décongelé, attendri, prix par 100 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": null,
+  "provenance": "Atlantique Centre-Est (zone de pêche)",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 3.5,
+  "prix_final": 2.8
+ },
+ {
+  "produit": "Filet de truite saumonée, prix par 100 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": "élevage",
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "25%"
+  ],
+  "prix_initial": 4.45,
+  "prix_final": 3.3
+ },
+ {
+  "produit": "Tarte sablée aux framboises, fait maison, 650 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Frais & fait maison"
+  ],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 17.5,
+  "prix_final": 14.0
+ },
+ {
+  "produit": "Focaccia pizza au jambon, fait maison, prix par 100 g",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Frais & fait maison"
+  ],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 2.1,
+  "prix_final": 1.65
+ },
+ {
+  "produit": "Quiche au fromage, fait maison, 160 g",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Frais & fait maison"
+  ],
+  "type_offre": [
+   "24%"
+  ],
+  "prix_initial": 3.95,
+  "prix_final": 3.0
+ }
+]

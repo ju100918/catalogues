@@ -1,0 +1,112 @@
+[
+ {
+  "produit": "Tartare Ail & fines herbes, duo 2 x 150 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 6.9,
+  "prix_final": 5.5
+ },
+ {
+  "produit": "Burrata La Pugliesina, 250 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": "Italie",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 8.15,
+  "prix_final": 6.5
+ },
+ {
+  "produit": "Salame Gran Magro Liberamente, 80 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": "UE",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 3.5,
+  "prix_final": 2.8
+ },
+ {
+  "produit": "Saucisse à rôtir Olma de Saint-Gall IGP, 2 x 160 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "IGP"
+  ],
+  "type_offre": [
+   "22%"
+  ],
+  "prix_initial": 8.95,
+  "prix_final": 6.95
+ },
+ {
+  "produit": "Roastbeef, prix par 100 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "32%"
+  ],
+  "prix_initial": 7.3,
+  "prix_final": 4.9
+ },
+ {
+  "produit": "Jambon de campagne fumé, prix par 100 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 4.95,
+  "prix_final": 3.95
+ },
+ {
+  "produit": "Poitrines de poulet duo pack, 2 x env. 300 g, prix par 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "26%"
+  ],
+  "prix_initial": 3.45,
+  "prix_final": 2.55
+ },
+ {
+  "produit": "Filet d'agneau, prix par 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Nouvelle-Zélande",
+  "labels": [],
+  "type_offre": [
+   "33%"
+  ],
+  "prix_initial": 5.85,
+  "prix_final": 3.9
+ },
+ {
+  "produit": "Filet mignon de porc, prix par 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "35%"
+  ],
+  "prix_initial": 5.95,
+  "prix_final": 3.85
+ }
+]

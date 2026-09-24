@@ -1,0 +1,99 @@
+[
+ {
+  "produit": "Tous les riz Tom's Best (p. ex. riz jasmin Tom's Best, Fairtrade Max Havelaar, 1 kg)",
+  "souscategorie_pyramide": "3.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Fairtrade Max Havelaar"
+  ],
+  "type_offre": [
+   "à partir de 2",
+   "30%"
+  ],
+  "prix_initial": 3.8,
+  "prix_final": 2.65
+ },
+ {
+  "produit": "Tous les produits Zenbu, sauf spiritueux (p. ex. riz pour sushis bio Naturaplan Zenbu, 500 g)",
+  "souscategorie_pyramide": "3.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Naturaplan",
+   "Bio"
+  ],
+  "type_offre": [
+   "à partir de 2",
+   "20%"
+  ],
+  "prix_initial": 4.75,
+  "prix_final": 3.8
+ },
+ {
+  "produit": "Tous les produits Nongshim (p. ex. nouilles instantanées Shin Ramyun, 120 g)",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2",
+   "20%"
+  ],
+  "prix_initial": 1.9,
+  "prix_final": 1.5
+ },
+ {
+  "produit": "Huile de friture Coop, 3 litres",
+  "souscategorie_pyramide": "6.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "31%"
+  ],
+  "prix_initial": 15.95,
+  "prix_final": 10.95
+ },
+ {
+  "produit": "Tous les produits Thai Kitchen (p. ex. lait de coco, 250 ml)",
+  "souscategorie_pyramide": "6.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2",
+   "20%"
+  ],
+  "prix_initial": 2.8,
+  "prix_final": 2.2
+ },
+ {
+  "produit": "Tous les produits Patak's (p. ex. Butter Chicken Sauce, 450 g)",
+  "souscategorie_pyramide": "10.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2",
+   "20%"
+  ],
+  "prix_initial": 5.5,
+  "prix_final": 4.4
+ },
+ {
+  "produit": "Tous les produits Mei Yang (p. ex. sauce au soja Premium bio, 190 ml)",
+  "souscategorie_pyramide": "10.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Bio"
+  ],
+  "type_offre": [
+   "à partir de 2",
+   "20%"
+  ],
+  "prix_initial": 3.95,
+  "prix_final": 3.15
+ }
+]

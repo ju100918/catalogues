@@ -1,0 +1,60 @@
+[
+ {
+  "produit": "La Côte AOC Luins Les Merveilles 2024, 6 x 70 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "AOC"
+  ],
+  "type_offre": [
+   "40%",
+   "Actions hypermarché"
+  ],
+  "prix_initial": 59.7,
+  "prix_final": 35.7
+ },
+ {
+  "produit": "Quasi d'agneau Coop, env. 400 g, les 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Nouvelle-Zélande",
+  "labels": [],
+  "type_offre": [
+   "42%",
+   "Actions hypermarché"
+  ],
+  "prix_initial": 5.1,
+  "prix_final": 2.95
+ },
+ {
+  "produit": "Valser pétillante ou plate, 6 x 1,5 litre",
+  "souscategorie_pyramide": "1.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2",
+   "43%",
+   "Actions hypermarché"
+  ],
+  "prix_initial": 6.9,
+  "prix_final": 3.9
+ },
+ {
+  "produit": "Ragoût de bœuf Naturafarm Natura-Beef, env. 600 g, les 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Naturafarm",
+   "Natura-Beef"
+  ],
+  "type_offre": [
+   "41%",
+   "Actions hypermarché"
+  ],
+  "prix_initial": 4.1,
+  "prix_final": 2.4
+ }
+]

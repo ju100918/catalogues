@@ -1,0 +1,63 @@
+[
+ {
+  "produit": "Grana Padano Coop, DOP, râpé, 3 x 130 g, trio",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "DOP"
+  ],
+  "type_offre": [
+   "40%",
+   "Hits du week-end (9.4–12.4.2026)"
+  ],
+  "prix_initial": 9.9,
+  "prix_final": 5.9
+ },
+ {
+  "produit": "Rôti de porc tessinois dans le cou Coop, env. 1,5 kg, le kg",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Suisse Garantie"
+  ],
+  "type_offre": [
+   "50%",
+   "Hits du week-end (9.4–12.4.2026)"
+  ],
+  "prix_initial": 35.5,
+  "prix_final": 17.5
+ },
+ {
+  "produit": "Carottes bio Naturaplan, le sachet de 1 kg",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Naturaplan",
+   "Bio Suisse"
+  ],
+  "type_offre": [
+   "20%",
+   "Hits du début de semaine (13.4–15.4.2026)"
+  ],
+  "prix_initial": 3.0,
+  "prix_final": 2.4
+ },
+ {
+  "produit": "Spare ribs de porc Naturafarm, env. 550 g, les 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Naturafarm"
+  ],
+  "type_offre": [
+   "40%",
+   "Hits du début de semaine (13.4–15.4.2026)"
+  ],
+  "prix_initial": 3.25,
+  "prix_final": 1.95
+ }
+]

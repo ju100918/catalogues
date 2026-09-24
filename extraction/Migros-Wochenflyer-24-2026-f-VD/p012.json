@@ -1,0 +1,66 @@
+[
+ {
+  "produit": "Pâtes Anna's Best, réfrigérées, raviolis au bœuf d'Hérens ou gnocchis au basilic (p. ex. raviolis, 3 x 250 g)",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "lot de 3",
+   "20%"
+  ],
+  "prix_initial": 14.85,
+  "prix_final": 11.75
+ },
+ {
+  "produit": "Houmous Anna's Best, au citron ou nature, 300 g",
+  "souscategorie_pyramide": "7.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "V-Label vegan"
+  ],
+  "type_offre": [
+   "35%"
+  ],
+  "prix_initial": 4.43,
+  "prix_final": 2.85
+ },
+ {
+  "produit": "Lasagnes Anna's Best et Migros Bio, bolognese ou fiorentina (p. ex. bolognese Anna's Best, 400 g)",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2 articles",
+   "20%"
+  ],
+  "prix_initial": 3.95,
+  "prix_final": 3.16
+ },
+ {
+  "produit": "Cœur de Lavande (pâtes farcies) avec fêta, miel et lavande, 250 g",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Hit"
+  ],
+  "prix_initial": null,
+  "prix_final": 5.95
+ },
+ {
+  "produit": "Mini rouleaux de printemps Vegi Asia Snacks, 20 pièces, 500 g",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Hit"
+  ],
+  "prix_initial": null,
+  "prix_final": 8.9
+ }
+]

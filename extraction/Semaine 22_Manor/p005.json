@@ -1,0 +1,112 @@
+[
+ {
+  "produit": "Toute la gamme d'huiles d'olive Terre Francescane (p. ex. L'Italiano E.V., 1 L)",
+  "souscategorie_pyramide": "6.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à l'achat de 2 pièces",
+   "30%"
+  ],
+  "prix_initial": 18.95,
+  "prix_final": 13.25
+ },
+ {
+  "produit": "Toute la gamme sauces Thomy Squeeze (p. ex. tartare, 200 ml)",
+  "souscategorie_pyramide": "10.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 2.4,
+  "prix_final": 1.9
+ },
+ {
+  "produit": "Toute la gamme La Belle-Iloise (p. ex. sardines à l'huile d'olive St-Georges, 115 g)",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 4.95,
+  "prix_final": 3.95
+ },
+ {
+  "produit": "Toute la gamme pâtes Raguso (p. ex. penne rigate, 500 g)",
+  "souscategorie_pyramide": "3.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 4.95,
+  "prix_final": 3.45
+ },
+ {
+  "produit": "Toute la gamme Nomie (p. ex. poivre noir kampot, 75 g)",
+  "souscategorie_pyramide": "10.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à l'achat de 2 pièces",
+   "30%"
+  ],
+  "prix_initial": 14.95,
+  "prix_final": 10.45
+ },
+ {
+  "produit": "Tout l'assortiment Perle de Lait (p. ex. abricots du Valais, 4 x 125 g)",
+  "souscategorie_pyramide": "4.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 4.95,
+  "prix_final": 3.95
+ },
+ {
+  "produit": "Tout l'assortiment Oatly Barista (p. ex. lait d'avoine, 1 L)",
+  "souscategorie_pyramide": "4.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 3.45,
+  "prix_final": 2.75
+ },
+ {
+  "produit": "Tout l'assortiment Garden Gourmet (p. ex. nuggets, 200 g)",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 5.5,
+  "prix_final": 4.4
+ },
+ {
+  "produit": "Tout l'assortiment jus et smoothies Innocent (p. ex. jus d'orange avec pulpe, 900 ml)",
+  "souscategorie_pyramide": "1.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 5.5,
+  "prix_final": 4.4
+ }
+]

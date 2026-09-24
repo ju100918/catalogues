@@ -1,0 +1,108 @@
+[
+ {
+  "produit": "Tomates cerises en grappes Primagusto, la barquette de 300 g",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": "Suisse/Italie",
+  "labels": [
+   "Primagusto"
+  ],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 4.95,
+  "prix_final": 3.95
+ },
+ {
+  "produit": "Kiwis verts Zespri (sauf bio et Primagusto), la pièce",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Italie",
+  "labels": [],
+  "type_offre": [
+   "à partir de 3",
+   "40%"
+  ],
+  "prix_initial": 1.1,
+  "prix_final": 0.65
+ },
+ {
+  "produit": "Pommes Gala bio Naturaplan, préemballées, le kg",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Naturaplan",
+   "Bio Suisse"
+  ],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 5.4,
+  "prix_final": 4.3
+ },
+ {
+  "produit": "Le cabas à remplir soi-même avec des pommes et des poires (sauf bio, Primagusto et Coop Prix Garantie), en vrac, min. 3,3 kg",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "28%"
+  ],
+  "prix_initial": 11.05,
+  "prix_final": 7.95
+ },
+ {
+  "produit": "Myrtilles bio Naturaplan, la barquette de 200 g",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Espagne",
+  "labels": [
+   "Naturaplan",
+   "Bio"
+  ],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 4.4,
+  "prix_final": 3.5
+ },
+ {
+  "produit": "Oranges blondes (sauf bio), le filet de 750 g",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Espagne",
+  "labels": [],
+  "type_offre": [
+   "Superprix",
+   "L'offre fraîcheur"
+  ],
+  "prix_initial": null,
+  "prix_final": 1.0
+ },
+ {
+  "produit": "Roquette Betty Bossi, lavée et prête à consommer, 100 g + 10% gratuits",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "+10% gratuits"
+  ],
+  "prix_initial": null,
+  "prix_final": 2.95
+ },
+ {
+  "produit": "Chicorée rouge et scarole Betty Bossi, lavées et prêtes à consommer, 180 g + 20% gratuits",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "+20% gratuits"
+  ],
+  "prix_initial": null,
+  "prix_final": 2.95
+ }
+]

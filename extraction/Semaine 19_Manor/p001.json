@@ -1,0 +1,43 @@
+[
+ {
+  "produit": "Filet de saumon, issu de l'élevage durable, FOS, prix par 100 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": "élevage",
+  "provenance": "Écosse",
+  "labels": [
+   "Friend of the Sea"
+  ],
+  "type_offre": [
+   "33%",
+   "Super Hit"
+  ],
+  "prix_initial": 5.25,
+  "prix_final": 3.5
+ },
+ {
+  "produit": "Rumpsteak de génisse wet-aged, prix par 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "33%",
+   "Super Hit"
+  ],
+  "prix_initial": 8.95,
+  "prix_final": 5.95
+ },
+ {
+  "produit": "Mangue, prix par pièce",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Côte d'Ivoire",
+  "labels": [],
+  "type_offre": [
+   "30%",
+   "Super Hit"
+  ],
+  "prix_initial": 2.75,
+  "prix_final": 1.9
+ }
+]

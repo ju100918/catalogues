@@ -1,0 +1,121 @@
+[
+ {
+  "produit": "Myrtilles Premium, 150 g",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Italie, Espagne",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 3.95,
+  "prix_final": 3.15
+ },
+ {
+  "produit": "Avocats, prix par pièce",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Pérou",
+  "labels": [],
+  "type_offre": [
+   "23%"
+  ],
+  "prix_initial": 1.95,
+  "prix_final": 1.5
+ },
+ {
+  "produit": "Tomates grappoloni, prix au kg",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 4.95,
+  "prix_final": 3.95
+ },
+ {
+  "produit": "BNP dos de saumon bio, prix par 100 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": null,
+  "provenance": "Irlande",
+  "labels": [
+   "Bio"
+  ],
+  "type_offre": [
+   "24%"
+  ],
+  "prix_initial": 8.95,
+  "prix_final": 6.8
+ },
+ {
+  "produit": "Crevettes tail-on cuites, décongelées, issues de la pêche durable, FOS, prix par 100 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": null,
+  "provenance": "Océan Indien-Est (zone de pêche)",
+  "labels": [
+   "Friend of the Sea"
+  ],
+  "type_offre": [
+   "33%"
+  ],
+  "prix_initial": 5.95,
+  "prix_final": 3.95
+ },
+ {
+  "produit": "Moules bouchot, prix au kg",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": "élevage",
+  "provenance": "France",
+  "labels": [],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 12.5,
+  "prix_final": 8.75
+ },
+ {
+  "produit": "Tartelettes aux framboises duo, 280 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Frais & fait maison"
+  ],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 6.8,
+  "prix_final": 5.4
+ },
+ {
+  "produit": "Baguette au poulet pané, 280 g",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Frais & fait maison"
+  ],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 7.95,
+  "prix_final": 6.35
+ },
+ {
+  "produit": "Manorette aux olives, 300 g",
+  "souscategorie_pyramide": "3.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Frais & fait maison",
+   "Bio"
+  ],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 4.7,
+  "prix_final": 3.75
+ }
+]

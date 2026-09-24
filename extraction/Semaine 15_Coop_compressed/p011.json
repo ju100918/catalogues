@@ -1,0 +1,99 @@
+[
+ {
+  "produit": "Toutes les capsules de café La Mocca compatibles Nespresso (p. ex. café Lungo, Fairtrade Max Havelaar, 20 capsules)",
+  "souscategorie_pyramide": "1.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Fairtrade Max Havelaar"
+  ],
+  "type_offre": [
+   "à partir de 2",
+   "30%"
+  ],
+  "prix_initial": 7.95,
+  "prix_final": 5.55
+ },
+ {
+  "produit": "Toutes les capsules de café La Mocca et La Semeuse compatibles Delizio (p. ex. café Lungo Crema La Mocca, Fairtrade Max Havelaar, 24 capsules)",
+  "souscategorie_pyramide": "1.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Fairtrade Max Havelaar"
+  ],
+  "type_offre": [
+   "40%"
+  ],
+  "prix_initial": 7.95,
+  "prix_final": 4.75
+ },
+ {
+  "produit": "Tous les cafés en grains Lavazza, 1 kg (p. ex. Qualità Oro)",
+  "souscategorie_pyramide": "1.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "40%"
+  ],
+  "prix_initial": 23.95,
+  "prix_final": 14.35
+ },
+ {
+  "produit": "Tous les müeslis, porridges et produits protéinés Whey Coop High Protein (p. ex. Whey Protein Vanille, Fairtrade Max Havelaar, 750 g)",
+  "souscategorie_pyramide": "9.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Fairtrade Max Havelaar"
+  ],
+  "type_offre": [
+   "à partir de 2",
+   "33%"
+  ],
+  "prix_initial": 15.95,
+  "prix_final": 10.65
+ },
+ {
+  "produit": "Toutes les farines Sapori d'Italia (p. ex. farine à pizza, 1 kg)",
+  "souscategorie_pyramide": "10.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2",
+   "33%"
+  ],
+  "prix_initial": 2.8,
+  "prix_final": 1.85
+ },
+ {
+  "produit": "Crackers Paprika Dar-Vida, emballage XXL, 350 g",
+  "souscategorie_pyramide": "7.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 8.4,
+  "prix_final": 5.85
+ },
+ {
+  "produit": "Mélange de noix bio Naturaplan, Fairtrade Max Havelaar, 3 x 150 g, trio",
+  "souscategorie_pyramide": "6.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Naturaplan",
+   "Bio",
+   "Fairtrade Max Havelaar"
+  ],
+  "type_offre": [
+   "33%"
+  ],
+  "prix_initial": 12.6,
+  "prix_final": 8.4
+ }
+]

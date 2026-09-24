@@ -1,0 +1,25 @@
+[
+ {
+  "produit": "Toute la mozzarella et la feta (sauf Coop Prix Garantie)",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20x superpoints",
+   "Hello Family Club (bon numérique)"
+  ],
+  "prix_initial": null,
+  "prix_final": null
+ },
+ {
+  "produit": "Penne all'arrabbiata aux boulettes de bœuf haché (Coop Restaurant)",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 9.95,
+  "prix_final": null
+ }
+]

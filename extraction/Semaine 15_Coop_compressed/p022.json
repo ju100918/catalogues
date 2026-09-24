@@ -1,0 +1,57 @@
+[
+ {
+  "produit": "Tous les fruits séchés et fruits à coque Seeberger (p. ex. cerneaux de noix, 150 g)",
+  "souscategorie_pyramide": "6.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2",
+   "30%",
+   "Actions hypermarché"
+  ],
+  "prix_initial": 6.5,
+  "prix_final": 4.55
+ },
+ {
+  "produit": "Toblerone au lait, 8 x 100 g, multipack",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "40%",
+   "Actions hypermarché"
+  ],
+  "prix_initial": 26.4,
+  "prix_final": 15.8
+ },
+ {
+  "produit": "Valais AOC Pinot Noir G. Clavien & Fils 2024, 6 x 75 cl",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "AOC"
+  ],
+  "type_offre": [
+   "30%",
+   "Actions hypermarché"
+  ],
+  "prix_initial": 59.7,
+  "prix_final": 41.7
+ },
+ {
+  "produit": "Huile d'olive extra vierge Filippo Berio, 3 litres",
+  "souscategorie_pyramide": "6.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "40%",
+   "Actions hypermarché"
+  ],
+  "prix_initial": 46.0,
+  "prix_final": 27.6
+ }
+]

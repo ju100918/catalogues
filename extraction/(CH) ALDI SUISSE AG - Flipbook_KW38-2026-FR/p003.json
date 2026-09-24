@@ -1,0 +1,83 @@
+[
+ {
+  "produit": "Plaisir du séré crémeux Milsani, différentes sortes, 500 g",
+  "souscategorie_pyramide": "4.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-8%",
+   "Baisse de prix"
+  ],
+  "prix_initial": 1.85,
+  "prix_final": 1.69
+ },
+ {
+  "produit": "Margarine Vitareform, 250 g",
+  "souscategorie_pyramide": "6.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "V-Label vegan"
+  ],
+  "type_offre": [
+   "-5%",
+   "Baisse de prix"
+  ],
+  "prix_initial": 1.79,
+  "prix_final": 1.69
+ },
+ {
+  "produit": "Pâtes précuites pour wok, ramen, udon ou moyennes, 2 x 150 g",
+  "souscategorie_pyramide": "3.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-20%",
+   "Baisse de prix"
+  ],
+  "prix_initial": 2.49,
+  "prix_final": 1.99
+ },
+ {
+  "produit": "Salsa, douce 300 g, forte 300 g ou fromage 285 g",
+  "souscategorie_pyramide": "10.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Baisse de prix"
+  ],
+  "prix_initial": null,
+  "prix_final": 1.35
+ },
+ {
+  "produit": "Sucres aromatisés, citron 60 g, orange 60 g ou vanille Bourbon 24 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "-5%",
+   "Baisse de prix"
+  ],
+  "prix_initial": 1.79,
+  "prix_final": 1.69
+ },
+ {
+  "produit": "Mondo Biologico Prosecco Spumante bio DOC, 11% vol., 0,75 litre",
+  "souscategorie_pyramide": "7.4",
+  "type_poisson": null,
+  "provenance": "Italie",
+  "labels": [
+   "Bio",
+   "DOC"
+  ],
+  "type_offre": [
+   "Baisse de prix"
+  ],
+  "prix_initial": null,
+  "prix_final": 8.99
+ }
+]

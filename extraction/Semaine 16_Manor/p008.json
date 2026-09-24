@@ -1,0 +1,82 @@
+[
+ {
+  "produit": "Toute la gamme de biscuits Il Viaggiator Goloso (p. ex. Torcetti al Burro, 350 g)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à l'achat de 2 pièces",
+   "30%",
+   "Festival des biscuits"
+  ],
+  "prix_initial": 9.6,
+  "prix_final": 6.7
+ },
+ {
+  "produit": "Biscuits Kägi signalés en magasin (p. ex. Kägi fret Action, 6 x 50 g)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "30%",
+   "Festival des biscuits"
+  ],
+  "prix_initial": 7.0,
+  "prix_final": 4.9
+ },
+ {
+  "produit": "Toutes les sortes de biscuits Ovomaltine Trio Pack (p. ex. Ovomaltine Crunchy Biscuit, 3 x 250 g)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "30%",
+   "Festival des biscuits"
+  ],
+  "prix_initial": 14.85,
+  "prix_final": 10.4
+ },
+ {
+  "produit": "Toutes les sortes de biscuits Oreo et Mikado Trio Pack (p. ex. Oreo Classic, 3 x 154 g)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "30%",
+   "Festival des biscuits"
+  ],
+  "prix_initial": 9.9,
+  "prix_final": 6.9
+ },
+ {
+  "produit": "Toutes les sortes de biscuits Kambly & Cailler Trio Pack (p. ex. Bretzeli Kambly, 3 x 115 g)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "30%",
+   "Festival des biscuits"
+  ],
+  "prix_initial": 10.5,
+  "prix_final": 7.35
+ },
+ {
+  "produit": "Toute la gamme biscuits Mulino Bianco (p. ex. Crème de noisettes, 260 g)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à l'achat de 2 pièces",
+   "30%",
+   "Festival des biscuits"
+  ],
+  "prix_initial": 3.6,
+  "prix_final": 2.5
+ }
+]

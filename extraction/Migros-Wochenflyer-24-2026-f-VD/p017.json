@@ -1,0 +1,123 @@
+[
+ {
+  "produit": "Pois chiches et haricots rouges, Alnatura bio et Migros (p. ex. pois chiches Alnatura, bio, 220 g)",
+  "souscategorie_pyramide": "5.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Bio"
+  ],
+  "type_offre": [
+   "à partir de 2 articles",
+   "25%"
+  ],
+  "prix_initial": 1.9,
+  "prix_final": 1.43
+ },
+ {
+  "produit": "Rio Mare, diverses variétés (p. ex. thon à l'huile d'olive, 4 x 104 g)",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "lot de 4",
+   "25%"
+  ],
+  "prix_initial": 18.4,
+  "prix_final": 13.8
+ },
+ {
+  "produit": "Tout l'assortiment Ponti et Giacobazzi (p. ex. vinaigre balsamique de Modène Ponti, 500 ml)",
+  "souscategorie_pyramide": "10.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2 articles",
+   "30%"
+  ],
+  "prix_initial": 4.8,
+  "prix_final": 3.36
+ },
+ {
+  "produit": "Farine fleur M-Classic, IP-SUISSE, 10 x 1 kg",
+  "souscategorie_pyramide": "10.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "IP-Suisse"
+  ],
+  "type_offre": [
+   "lot de 10",
+   "30%"
+  ],
+  "prix_initial": 19.0,
+  "prix_final": 13.3
+ },
+ {
+  "produit": "Morceaux de mangue ou noix de cajou, Sun Queen (p. ex. morceaux de mangue séchés, 2 x 200 g)",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "lot de 2",
+   "20%"
+  ],
+  "prix_initial": 8.8,
+  "prix_final": 7.0
+ },
+ {
+  "produit": "Rouleaux de printemps J.Bank's, surgelés, au poulet ou aux légumes (p. ex. poulet, 2 x 6 pièces, 740 g)",
+  "souscategorie_pyramide": "7.5",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "lot de 2",
+   "30%"
+  ],
+  "prix_initial": 14.0,
+  "prix_final": 9.8
+ },
+ {
+  "produit": "Kellogg's, diverses variétés (p. ex. Trésor chocolat noisettes, 2 x 620 g)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "lot de 2",
+   "20%"
+  ],
+  "prix_initial": 13.9,
+  "prix_final": 11.1
+ },
+ {
+  "produit": "Barre protéinée Lemon Cheesecake Barebells, 55 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Nouveau",
+   "20x Cumulus"
+  ],
+  "prix_initial": null,
+  "prix_final": 3.4
+ },
+ {
+  "produit": "Barre protéinée Dark Chocolate Raspberry Be Kind, 50 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Nouveau",
+   "20x Cumulus"
+  ],
+  "prix_initial": null,
+  "prix_final": 3.5
+ }
+]

@@ -1,0 +1,101 @@
+[
+ {
+  "produit": "Tous les trio packs Lavazza (p. ex. Oro grains trio, 3 x 500 g)",
+  "souscategorie_pyramide": "1.4",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 46.5,
+  "prix_final": 32.55
+ },
+ {
+  "produit": "Tout l'assortiment de céréales Kellogg's (p. ex. Mmh...Trésor Milk Choco, 410 g)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à l'achat de 2",
+   "30%"
+  ],
+  "prix_initial": 5.5,
+  "prix_final": 3.85
+ },
+ {
+  "produit": "Tout l'assortiment Ricola (p. ex. infusion instantanée Bonne Nuit, 200 g)",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à l'achat de 2",
+   "30%"
+  ],
+  "prix_initial": 4.3,
+  "prix_final": 3.0
+ },
+ {
+  "produit": "Sélection de biscuits Milka, Oreo, LU (p. ex. LU Mikado au lait, 75 g)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à l'achat de 2",
+   "30%"
+  ],
+  "prix_initial": 3.85,
+  "prix_final": 2.65
+ },
+ {
+  "produit": "Toutes les sortes de biscuits Nutella (p. ex. sachet de 22 pièces, 304 g)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à l'achat de 2",
+   "30%"
+  ],
+  "prix_initial": 5.2,
+  "prix_final": 3.6
+ },
+ {
+  "produit": "Toute la gamme branches Cailler Big Pack (p. ex. lait, 30 x 23 g)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 33.95,
+  "prix_final": 23.75
+ },
+ {
+  "produit": "M&M's Peanut édition limitée, 800 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [],
+  "prix_initial": 11.95,
+  "prix_final": null
+ },
+ {
+  "produit": "Mikado, Milka, LU, Oreo, Tuc",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à l'achat de 2 produits",
+   "30%"
+  ],
+  "prix_initial": null,
+  "prix_final": null
+ }
+]

@@ -1,0 +1,112 @@
+[
+ {
+  "produit": "Raclette Valdor AOP, prix par 100 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "AOP"
+  ],
+  "type_offre": [
+   "21%"
+  ],
+  "prix_initial": 2.85,
+  "prix_final": 2.25
+ },
+ {
+  "produit": "Fondue Philippe Rochat moitié-moitié, 400 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 16.5,
+  "prix_final": 13.2
+ },
+ {
+  "produit": "Spianata piccante Casa Modena, 80 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": "UE",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 3.95,
+  "prix_final": 3.15
+ },
+ {
+  "produit": "Chipolata de veau, 6 x 30 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 7.95,
+  "prix_final": 6.35
+ },
+ {
+  "produit": "Bresaola della Valtellina, prix par 100 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": "Italie",
+  "labels": [],
+  "type_offre": [
+   "21%"
+  ],
+  "prix_initial": 8.9,
+  "prix_final": 6.95
+ },
+ {
+  "produit": "Jambon cuit Rostello, prix par 100 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": "Italie",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 5.15,
+  "prix_final": 4.1
+ },
+ {
+  "produit": "Escalope de dinde, prix par 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 4.15,
+  "prix_final": 2.9
+ },
+ {
+  "produit": "Racks d'agneau, prix par 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Nouvelle-Zélande",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 6.85,
+  "prix_final": 5.45
+ },
+ {
+  "produit": "Fricassée de porc, prix par 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "46%"
+  ],
+  "prix_initial": 2.05,
+  "prix_final": 1.1
+ }
+]

@@ -1,0 +1,96 @@
+[
+ {
+  "produit": "Pralinés du Confiseur Frey, édition d'été, 452 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Rainforest Alliance"
+  ],
+  "type_offre": [
+   "40%"
+  ],
+  "prix_initial": 19.95,
+  "prix_final": 11.95
+ },
+ {
+  "produit": "Toutes les plaques de chocolat bio Frey (p. ex. crémant 55% de cacao, Fairtrade, 100 g)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Bio",
+   "Fairtrade Max Havelaar"
+  ],
+  "type_offre": [
+   "à partir de 2 articles",
+   "20%"
+  ],
+  "prix_initial": 2.5,
+  "prix_final": 2.0
+ },
+ {
+  "produit": "Pattes d'ours ou petites meringues au chocolat, M-Classic (p. ex. pattes d'ours, 760 g)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Rainforest Alliance"
+  ],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 7.0,
+  "prix_final": 5.6
+ },
+ {
+  "produit": "Biscuits Nutella, 304 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Hit"
+  ],
+  "prix_initial": null,
+  "prix_final": 4.95
+ },
+ {
+  "produit": "Schoko-Bons Kinder, 500 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Hit"
+  ],
+  "prix_initial": null,
+  "prix_final": 8.95
+ },
+ {
+  "produit": "Tout l'assortiment Villars (p. ex. lait suisse à l'ancienne, 100 g)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 3.95,
+  "prix_final": 3.16
+ },
+ {
+  "produit": "Barres Snickers, 9 barres + 1 gratuite, 500 g",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "lot de 10",
+   "Hit",
+   "9+1 gratuite"
+  ],
+  "prix_initial": null,
+  "prix_final": 4.85
+ }
+]

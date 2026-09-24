@@ -1,0 +1,133 @@
+[
+ {
+  "produit": "Farm Chips, romarin, herbes suisses ou Wave paprika (p. ex. romarin, 300 g)",
+  "souscategorie_pyramide": "7.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 6.6,
+  "prix_final": 5.25
+ },
+ {
+  "produit": "Tortilla Chips Nature Migros Bio, 150 g",
+  "souscategorie_pyramide": "7.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Migros Bio",
+   "Bio Suisse"
+  ],
+  "type_offre": [
+   "25%"
+  ],
+  "prix_initial": 3.4,
+  "prix_final": 2.55
+ },
+ {
+  "produit": "Flûtes, diverses variétés (p. ex. sel, 130 g)",
+  "souscategorie_pyramide": "7.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "à partir de 2 articles",
+   "22%"
+  ],
+  "prix_initial": 3.2,
+  "prix_final": 2.5
+ },
+ {
+  "produit": "Taquitos Zweifel, Fajita et Sweet chili, 2 x 125 g",
+  "souscategorie_pyramide": "7.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "lot de 2",
+   "20%"
+  ],
+  "prix_initial": 4.8,
+  "prix_final": 3.8
+ },
+ {
+  "produit": "Chips au paprika Migros Wave, 150 g",
+  "souscategorie_pyramide": "7.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Prix bas"
+  ],
+  "prix_initial": null,
+  "prix_final": 2.0
+ },
+ {
+  "produit": "Pringles Buffalo Chicken Wings ou Cheeseburgers, 165 g",
+  "souscategorie_pyramide": "7.2",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "Nouveau",
+   "20x Cumulus"
+  ],
+  "prix_initial": null,
+  "prix_final": 3.3
+ },
+ {
+  "produit": "Elmer Citro, 6 x 1,5 litre",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "pack de 6",
+   "40%"
+  ],
+  "prix_initial": 13.8,
+  "prix_final": 8.25
+ },
+ {
+  "produit": "Tout l'assortiment Bundaberg, sans alcool (p. ex. bière au gingembre, 375 ml)",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "25%"
+  ],
+  "prix_initial": 3.9,
+  "prix_final": 2.93
+ },
+ {
+  "produit": "Coca-Cola Classic, Zero ou Double Zero, 12 x 150 ml",
+  "souscategorie_pyramide": "7.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "pack de 12",
+   "Hit"
+  ],
+  "prix_initial": null,
+  "prix_final": 6.7
+ },
+ {
+  "produit": "Jus d'orange 100% jus de fruits M-Classic, 10 x 1 litre",
+  "souscategorie_pyramide": "1.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Rainforest Alliance"
+  ],
+  "type_offre": [
+   "lot de 10",
+   "33%"
+  ],
+  "prix_initial": 17.95,
+  "prix_final": 12.0
+ }
+]

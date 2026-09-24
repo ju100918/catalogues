@@ -1,0 +1,69 @@
+[
+ {
+  "produit": "Nectarines jaunes, la barquette de 1 kg ou le kg",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Espagne/Italie/France",
+  "labels": [],
+  "type_offre": [
+   "34%"
+  ],
+  "prix_initial": 4.5,
+  "prix_final": 2.95
+ },
+ {
+  "produit": "Filet de bœuf Black Angus Migros, les 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Uruguay",
+  "labels": [],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 6.9,
+  "prix_final": 4.8
+ },
+ {
+  "produit": "Saucisses à rôtir de veau de Saint-Gall IGP, 3 x 2 pièces, 3 x 260 g",
+  "souscategorie_pyramide": "5.2",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "IGP"
+  ],
+  "type_offre": [
+   "lot de 3",
+   "30%"
+  ],
+  "prix_initial": 10.8,
+  "prix_final": 7.5
+ },
+ {
+  "produit": "Tous les cornets de glace Fun, surgelés (p. ex. fraise, 8 x 145 ml)",
+  "souscategorie_pyramide": "7.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "Rainforest Alliance"
+  ],
+  "type_offre": [
+   "à partir de 2 articles",
+   "30%"
+  ],
+  "prix_initial": 10.95,
+  "prix_final": 7.67
+ },
+ {
+  "produit": "Eau minérale Evian, 6 x 1,5 litre",
+  "souscategorie_pyramide": "1.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "pack de 6",
+   "50%"
+  ],
+  "prix_initial": 6.6,
+  "prix_final": 3.3
+ }
+]

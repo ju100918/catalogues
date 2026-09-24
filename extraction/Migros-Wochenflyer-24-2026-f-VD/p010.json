@@ -1,0 +1,81 @@
+[
+ {
+  "produit": "Le Gruyère salé AOP, env. 250 g, les 100 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "AOP"
+  ],
+  "type_offre": [
+   "16%"
+  ],
+  "prix_initial": 2.1,
+  "prix_final": 1.75
+ },
+ {
+  "produit": "Appenzellerin Élégant, env. 300 g, les 100 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "21%"
+  ],
+  "prix_initial": 2.35,
+  "prix_final": 1.85
+ },
+ {
+  "produit": "Le Maréchal Original «De la région.», IP-SUISSE, env. 300 g, les 100 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "De la région.",
+   "IP-Suisse"
+  ],
+  "type_offre": [
+   "17%"
+  ],
+  "prix_initial": 2.35,
+  "prix_final": 1.95
+ },
+ {
+  "produit": "Crème fraîche «De la région.», 250 g",
+  "souscategorie_pyramide": "6.3",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "De la région."
+  ],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 4.0,
+  "prix_final": 2.8
+ },
+ {
+  "produit": "Leerdammer en tranches, Original ou Lightlife (p. ex. Original, 350 g)",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 6.83,
+  "prix_final": 5.45
+ },
+ {
+  "produit": "Fromage fondu en tranches, Gruyère AOP ou Emmental, 30 tranches, 600 g",
+  "souscategorie_pyramide": "4.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "21%"
+  ],
+  "prix_initial": 8.85,
+  "prix_final": 6.95
+ }
+]

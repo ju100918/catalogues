@@ -1,0 +1,90 @@
+[
+ {
+  "produit": "Pilons de poulet Optigal, nature ou épicés, le kg",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "30%"
+  ],
+  "prix_initial": 12.0,
+  "prix_final": 8.4
+ },
+ {
+  "produit": "Escalopes de poulet Optigal, les 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "15%"
+  ],
+  "prix_initial": 3.3,
+  "prix_final": 2.8
+ },
+ {
+  "produit": "Gigot d'agneau Migros, les 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Irlande/Grande-Bretagne",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 5.0,
+  "prix_final": 4.0
+ },
+ {
+  "produit": "Émincé de porc IP-SUISSE, les 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "IP-Suisse"
+  ],
+  "type_offre": [
+   "Action"
+  ],
+  "prix_initial": 1.85,
+  "prix_final": 1.6
+ },
+ {
+  "produit": "Brochettes de bœuf à la hussarde, les 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 4.05,
+  "prix_final": 3.2
+ },
+ {
+  "produit": "Cuisses de poulet M-Classic, surgelées, 2,5 kg",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [],
+  "type_offre": [
+   "46%"
+  ],
+  "prix_initial": 20.28,
+  "prix_final": 10.95
+ },
+ {
+  "produit": "Rôti de cou de porc «De la région.», les 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": null,
+  "labels": [
+   "De la région."
+  ],
+  "type_offre": [
+   "20%"
+  ],
+  "prix_initial": 2.4,
+  "prix_final": 1.9
+ }
+]

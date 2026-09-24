@@ -1,0 +1,43 @@
+[
+ {
+  "produit": "Entrecôte parisienne de génisse wet-aged, prix par 100 g",
+  "souscategorie_pyramide": "5.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [],
+  "type_offre": [
+   "34%",
+   "Super Hit"
+  ],
+  "prix_initial": 6.45,
+  "prix_final": 4.25
+ },
+ {
+  "produit": "Filet royal de cabillaud, issu de la pêche durable, FOS, prix par 100 g",
+  "souscategorie_pyramide": "5.3",
+  "type_poisson": null,
+  "provenance": "Atlantique Nord-Est (zone de pêche)",
+  "labels": [
+   "Friend of the Sea"
+  ],
+  "type_offre": [
+   "33%",
+   "Super Hit"
+  ],
+  "prix_initial": 6.25,
+  "prix_final": 4.15
+ },
+ {
+  "produit": "Ananas Premium, prix au kg",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Costa Rica",
+  "labels": [],
+  "type_offre": [
+   "30%",
+   "Super Hit"
+  ],
+  "prix_initial": 5.95,
+  "prix_final": 4.15
+ }
+]

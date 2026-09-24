@@ -1,0 +1,47 @@
+[
+ {
+  "produit": "Raisin bio, 500 g",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Italie",
+  "labels": [
+   "Bio"
+  ],
+  "type_offre": [
+   "-33%",
+   "Superdeal"
+  ],
+  "prix_initial": 2.49,
+  "prix_final": 1.65
+ },
+ {
+  "produit": "Pommes Gala suisses, 1 kg",
+  "souscategorie_pyramide": "2.1",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Suisse Garantie"
+  ],
+  "type_offre": [
+   "-28%",
+   "Superdeal"
+  ],
+  "prix_initial": 2.79,
+  "prix_final": 1.99
+ },
+ {
+  "produit": "Épinards suisses, 500 g",
+  "souscategorie_pyramide": "2.2",
+  "type_poisson": null,
+  "provenance": "Suisse",
+  "labels": [
+   "Suisse Garantie"
+  ],
+  "type_offre": [
+   "-28%",
+   "Superdeal"
+  ],
+  "prix_initial": 3.49,
+  "prix_final": 2.49
+ }
+]
