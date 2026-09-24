@@ -59,7 +59,9 @@ Pour chaque produit ALIMENTAIRE, extrais les champs suivants :
          garnitures pour bruschetta, snacks feuilletés)
      7.3 Boissons sucrées (y compris boissons sucrées sans alcool,
          boissons protéinées et boissons lactées avec sucres ajoutés)
-     7.4 Boissons alcoolisées
+     7.4 Boissons alcoolisées (ATTENTION : Migros ne vend pas d'alcool ;
+         tout produit Migros qui ressemble à une boisson alcoolisée est
+         sans alcool et va en 7.3)
      7.5 Plats préparés, pizzas, pâtes farcies, préparations panées à base
          de viande ou de poisson (ex. nuggets, escalopes panées, bâtonnets
          de poisson)
