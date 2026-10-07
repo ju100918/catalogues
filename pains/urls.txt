@@ -1,0 +1,4 @@
+# Une URL de produit par ligne (Migros, Aldi, Lidl). Les URL Coop sont à saisir dans saisie_manuelle.json.
+https://www.migros.ch/fr/product/111433600200
+https://www.aldi-suisse.ch/fr/produit/panetteria-pain-purepeautre-avec-graines-000000000000288902
+https://sortiment.lidl.ch/fr/catalog/product/view/id/15559/s/pain-paysan-5110468/category/2/
